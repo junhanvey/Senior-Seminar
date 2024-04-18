@@ -1,5 +1,5 @@
 ---
-title: "How Penalties Relate to Game Outcomes in the National Football League"
+title: "Foul Play? How Officiating and Penalties Influence Game Outcomes in the National Football League"
 author: "Jun Hanvey"
 date: "ECON4950, Spring 2024"
 output: pdf_document
@@ -16,6 +16,17 @@ fig_height: 3
 
 # Introduction
 
+
+It's January 20th, 2019. Drew Brees attempts a pass to Tommylee Lewis. There's 1:49 to go in the fourth quarter of the NFC Championship. Lewis is hit, hard, by Nickell Robey-Coleman. Robey-Coleman never turns his head to look at the ball. Three officials discuss. There is no foul on the play. The New Orleans Saints settle for a field goal. They eventually lose the game, sending the Los Angeles Rams to the Super Bowl. Drew Brees, one of the most decorated and admired quarterbacks to ever play the game goes on to retire the next season, unable to lead his team to another Super Bowl (Triplett). 
+
+Robey-Coleman's actions in the 2018 NFC Championship, to many, appear to be an unquestionable case of defensive pass interference. Rule 8.5.2(a) of the NFL Rulebook states that "contact by a player who is not playing the ball that restricts the opponent's opportunity to make the catch" is prohibited (Goodell 32). But what was the true effect of this highly controversial no-call? 
+
+A 2019 article published by The Ringer calls it "the worst missed call in NFL playoff history." In fact, the title of the article is "Ball Does Lie: The Saints Just Lost on the Worst Missed Call in NFL Playoff History." (Heifetz) But did the New Orleans Saints truly lose due to the missed call? What inflammatory headlines and angry tweets don't mention is that the Saints kicked a field goal after the missed call, the Rams responded with one of their own, and the game went into overtime before their eventual victory. The missed call may have been egregious, but how can it definitively be said that the Saints would've gone to the Super Bowl had the defensive pass interference been called? 
+
+I intend to explore the true influence of fouls on whether a team loses or wins any given football game. A foul in the National Football League (NFL) is "any infraction of a playing rule for which a penalty is prescribed (Goodell 5)." "Penalty" is the term attributed to the punishment for a foul. In this paper, I will use the term "penalty" to refer to fouls, as I am analyzing the influence of fouls which were called and led to a team being penalized. 
+
+A simple Google search for "nfl officiating outrage" returns 79,000 results in 0.4 seconds detailing how X team or player is outraged over a call from a certain game. The outrage is understandable, given that officiating is largely subjective. While there are clearly defined rules for what is and is not allowed in a game, officials (or referees) are only human. In real time, it can be very difficult to correctly adjudicate every play or action taken by a player. This has led to a belief that referees "take sides" or that games are "rigged." After the infamous 2019 NFC championship no-call, New Orleans Saints defensive end Cameron Jordan stated  “As far as I’ve known, we haven’t had referees that go gung-ho for the Saints. We’ve got to put ourselves in the best position so we’re not able to be touched (Cacciola)." My goal is to analyze the available data and support the theory that individual officiating decisions do not determine the outcomes of NFL games. 
+
 # Literature Review
 
 # Data
@@ -24,7 +35,7 @@ These data come from Pro Football Reference and nflpenalties.com(include citatio
 The dataset obtained from Pro Football Reference contains information about a team's performance in a given game.
 The dataset from nflpenalties.com contains information about the penalties received in a given game.
 After merging the two together, I then generated some variables I believed may be relevant to my analysis.
-The data include information on the 2022-2023 NFL seasons.
+The data include information on the 2022-2023 NFL regular seasons.
 I chose those seasons in order to hopefully mitigate variations caused by institutional changes due to the COVID-19 pandemic.
 
 It should be noted that each game technically has two observations.
@@ -52,7 +63,7 @@ df <- read_csv('nfl.csv')
 head(df)
 
 ```
-
+# Exploratory Data Analysis
 ![](sumstats.png)
 
 ```{r, echo = F}
@@ -84,7 +95,7 @@ dfNum <- df[,7:18]
 
 ```
 
-# graphs/eda
+
 
 ```{r, include = F}
 refStats <- read_csv('refStats.csv')
@@ -186,7 +197,7 @@ mod1 <- glm(won ~ oYards + points + to + tDiff + penDiff + ydsDiff +
 summary(mod1)
 ```
 
-#Model diagnostics and analysis
+# Model Diagnostics and Analysis
 
 ```{r, echo = F, eval = T}
 y = predict(mod1, df, type = "response")
@@ -209,4 +220,26 @@ cbind(max_residual, case_number)
 
 
 ![](cm1.png)
+# Conclusion 
+# Works Cited
+
+Goodell, Roger. "OFFICIAL PLAYING RULES OF THE NATIONAL FOOTBALL LEAGUE." 
+  2023. 2.14.1(a)
+  
+Cacciola, Scott. “Missed Call Dooms Saints, Thrills Rams and Pains New 
+  Orleans.” The New York Times, The New York Times, 21 Jan. 2019,
+  www.nytimes.com/2019/01/20/sports/saints-rams-call-officials.html. 
+ 
+Heifetz, Danny. “Ball Does Lie: The Saints Just Lost on the Worst Missed Call   in NFL Playoff History.” The Ringer, The Ringer, 21 Jan. 2019, 
+  www.theringer.com/nfl/2019/1/20/18190982/saints-rams-nfc-championship-game
+  -missed-pass-interference-nickell-robey-coleman-tommylee-lewis. 
+  
+Sports Reference LLC. "2022 NFL Weekly League Schedule." 
+  Pro-Football-Reference.com - Pro Football Statistics and History. 
+  28 Mar. 2024, https://www.pro-football-reference.com/. 
+ 
+Triplett, Mike. “What Is the Legacy of New Orleans Saints’ Drew Brees? Take
+  Your Pick.” ESPN, ESPN Internet Ventures, 14 Mar. 2021,
+  www.espn.com/nfl/story/_/id/30676062/what-legacy-new-orleans-saints-drew-bre
+  es-take-your-pick. 
 
