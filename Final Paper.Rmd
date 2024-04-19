@@ -17,15 +17,14 @@ fig_height: 3
 # Introduction
 
 
-It's January 20th, 2019. Drew Brees attempts a pass to Tommylee Lewis. There's 1:49 to go in the fourth quarter of the NFC Championship. Lewis is hit, hard, by Nickell Robey-Coleman. Robey-Coleman never turns his head to look at the ball. Three officials discuss. There is no foul on the play. The New Orleans Saints settle for a field goal. They eventually lose the game, sending the Los Angeles Rams to the Super Bowl. Drew Brees, one of the most decorated and admired quarterbacks to ever play the game goes on to retire the next season, unable to lead his team to another Super Bowl (Triplett). 
-
-Robey-Coleman's actions in the 2018 NFC Championship, to many, appear to be an unquestionable case of defensive pass interference. Rule 8.5.2(a) of the NFL Rulebook states that "contact by a player who is not playing the ball that restricts the opponent's opportunity to make the catch" is prohibited (Goodell 32). But what was the true effect of this highly controversial no-call? 
+It's January 20th, 2019. Drew Brees attempts a pass to Tommylee Lewis. There's 1:49 to go in the fourth quarter of the NFC Championship. Lewis is hit, hard, by Nickell Robey-Coleman. Robey-Coleman never turns his head to look at the ball. Three officials discuss. There is no foul on the play. The New Orleans Saints settle for a field goal. They eventually lose the game, sending the Los Angeles Rams to the Super Bowl. Drew Brees, one of the most decorated and admired quarterbacks to ever play the game goes on to retire the next season, unable to lead his team to another Super Bowl. Robey-Coleman's actions in the 2018 NFC Championship, to many, appear to be an unquestionable case of defensive pass interference. Rule 8.5.2(a) of the NFL Rulebook states that "contact by a player who is not playing the ball that restricts the opponent's opportunity to make the catch" is prohibited (Goodell 32).
+But what was the true effect of this highly controversial no-call? 
 
 A 2019 article published by The Ringer calls it "the worst missed call in NFL playoff history." In fact, the title of the article is "Ball Does Lie: The Saints Just Lost on the Worst Missed Call in NFL Playoff History." (Heifetz) But did the New Orleans Saints truly lose due to the missed call? What inflammatory headlines and angry tweets don't mention is that the Saints kicked a field goal after the missed call, the Rams responded with one of their own, and the game went into overtime before their eventual victory. The missed call may have been egregious, but how can it definitively be said that the Saints would've gone to the Super Bowl had the defensive pass interference been called? 
 
 I intend to explore the true influence of fouls on whether a team loses or wins any given football game. A foul in the National Football League (NFL) is "any infraction of a playing rule for which a penalty is prescribed (Goodell 5)." "Penalty" is the term attributed to the punishment for a foul. In this paper, I will use the term "penalty" to refer to fouls, as I am analyzing the influence of fouls which were called and led to a team being penalized. 
 
-A simple Google search for "nfl officiating outrage" returns 79,000 results in 0.4 seconds detailing how X team or player is outraged over a call from a certain game. The outrage is understandable, given that officiating is largely subjective. While there are clearly defined rules for what is and is not allowed in a game, officials (or referees) are only human. In real time, it can be very difficult to correctly adjudicate every play or action taken by a player. This has led to a belief that referees "take sides" or that games are "rigged." After the infamous 2019 NFC championship no-call, New Orleans Saints defensive end Cameron Jordan stated  “As far as I’ve known, we haven’t had referees that go gung-ho for the Saints. We’ve got to put ourselves in the best position so we’re not able to be touched (Cacciola)." My goal is to analyze the available data and support the theory that individual officiating decisions do not determine the outcomes of NFL games. 
+A simple Google search for "nfl officiating outrage" returns 79,000 results in 0.4 seconds detailing how a team or player is outraged over a call from a certain game. The outrage is understandable, given that officiating is largely subjective. While there are clearly defined rules for what is and is not allowed in a game, officials (or referees) are only human. In real time, it can be very difficult to correctly adjudicate every play or action taken by a player. This has led to a belief that referees "take sides" or that games are "rigged." After the infamous 2019 NFC championship no-call, New Orleans Saints defensive end Cameron Jordan stated  “As far as I’ve known, we haven’t had referees that go gung-ho for the Saints. We’ve got to put ourselves in the best position so we’re not able to be touched (Cacciola)." My goal is to analyze the available data and support the theory that individual officiating decisions do not determine the outcomes of NFL games. 
 
 # Literature Review
 
@@ -170,56 +169,64 @@ ggplot(teamPen, aes(x = penalties, y = wins)) +
 ```
 
 ```{r, echo = F}
-pairs.panels(dfNum[1:6], cor = TRUE)
+# pairs.panels(dfNum[1:6], cor = TRUE)
 ```
 
 ```{r, echo = F}
-pairs.panels(dfNum[6:12], cor = TRUE)
+# pairs.panels(dfNum[6:12], cor = TRUE)
 ```
 
-# Create Testing and Training Data
 
 ```{r, echo = F}
 df$won <- as.factor(df$won)
 df$home <- as.factor(df$home)
 set.seed(1)
-testIndex <- createDataPartition(df$won, times = 1, p = 0.8,
+testIndex <- createDataPartition(df$won, times = 1, p = 0.7,
                                  list = F)
 train <- df[testIndex, ]
 test <- df[-testIndex, ]
 ```
 
-# Model
+# Models
+To run these models, I split my data into a training set and a testing set with 70% of the original data and 30% of the original data, respectively. Until I determine my final model, all models and analysis will be based on the training set only. 
+```{r}
+penMod <- glm(won ~ pCount + pYards + penDiff + pYdDiff, data = train, 
+              family = "binomial")
+summary(penMod)
 
+```
+```{r}
+y = predict(penMod, train, type = "response")
+
+y_hat0 <- ifelse(y > .50, 1, 0) |>
+  factor(levels = levels(train$won))
+
+lgCm0 <- confusionMatrix(data = y_hat0, reference = train$won, positive = "1")
+lgCm0
+```
+This first regression model estimates $won = \beta_0 + \beta_1(penalty count) + \beta_2(penalty yards) + \beta_3(penalty differential) + \beta_4(penalty yard differential)$. This model only predicts wins and losses with 52.04% accuracy, and none of the coefficients are significant at any level. So, not off to a great start. 
 ```{r, echo = F, eval = T}
 mod1 <- glm(won ~ oYards + points + to + tDiff + penDiff + ydsDiff +
-            pYdDiff + home, data = df, family = "binomial")
+            pYdDiff + home, data = train, family = "binomial")
 summary(mod1)
+exp(-0.013638)
 ```
-
-# Model Diagnostics and Analysis
 
 ```{r, echo = F, eval = T}
-y = predict(mod1, df, type = "response")
+y = predict(mod1, train, type = "response")
 
 y_hat <- ifelse(y > .50, 1, 0) |>
-  factor(levels = levels(df$won))
+  factor(levels = levels(train$won))
 
-lgCm <- confusionMatrix(data = y_hat, reference = df$won, positive = "1")
+lgCm <- confusionMatrix(data = y_hat, reference = train$won, positive = "1")
 lgCm
 ```
+The model predicts wins and losses with 87.92% accuracy, which is pretty good. I used a cutoff of 0.5 probability of winning to determine if a team should be classified as winning or losing. The only penalty-related coefficient significant at any level ($p = 0.0348$) is penalty yard differential. A 1-yard increase in penalty yard differential leads to a predicted change in win probability by a factor of $e^{-0.0137}$, or 0.9865. This equates to a roughly 1.5% reduction in winning odds. It is important to remember that the standard deviation of that variable is 31, meaning a one standard deviation increase in penalty yard differential would lead to a (follow up on this because it feels wrong.)
 
-```{r, echo = F}
-max_residual <- max(mod1$residuals)
-case_number <- which(mod1$residuals %in% max_residual)
-
-cbind(max_residual, case_number)
-```
-
-![](Model1.png)
+Based on this model, 
 
 
-![](cm1.png)
+
 # Conclusion 
 # Works Cited
 
@@ -237,9 +244,10 @@ Heifetz, Danny. “Ball Does Lie: The Saints Just Lost on the Worst Missed Call 
 Sports Reference LLC. "2022 NFL Weekly League Schedule." 
   Pro-Football-Reference.com - Pro Football Statistics and History. 
   28 Mar. 2024, https://www.pro-football-reference.com/. 
+  
+Sports Reference LLC. "2023 NFL Weekly League Schedule." 
+  Pro-Football-Reference.com - Pro Football Statistics and History. 
+  28 Mar. 2024, https://www.pro-football-reference.com/. 
  
-Triplett, Mike. “What Is the Legacy of New Orleans Saints’ Drew Brees? Take
-  Your Pick.” ESPN, ESPN Internet Ventures, 14 Mar. 2021,
-  www.espn.com/nfl/story/_/id/30676062/what-legacy-new-orleans-saints-drew-bre
-  es-take-your-pick. 
+
 
