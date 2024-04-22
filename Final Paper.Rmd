@@ -50,6 +50,7 @@ library(ggplot2)
 library(vtable)
 library(caret)
 library(psych)
+library(car)
 knitr::opts_chunk$set(fig.width=5, fig.height=3) 
 ```
 
@@ -180,6 +181,12 @@ ggplot(teamPen, aes(x = penalties, y = wins)) +
 ```{r, echo = F}
 df$won <- as.factor(df$won)
 df$home <- as.factor(df$home)
+df <- df |> 
+  mutate(
+    
+   hWin = case_when((home == "1" & won == "1") ~ 1, 
+                    .default = 0)
+  )
 set.seed(1)
 testIndex <- createDataPartition(df$won, times = 1, p = 0.7,
                                  list = F)
@@ -204,14 +211,18 @@ y_hat0 <- ifelse(y > .50, 1, 0) |>
 lgCm0 <- confusionMatrix(data = y_hat0, reference = train$won, positive = "1")
 lgCm0
 ```
-This first regression model estimates $won = \beta_0 + \beta_1(penalty count) + \beta_2(penalty yards) + \beta_3(penalty differential) + \beta_4(penalty yard differential)$. This model only predicts wins and losses with 52.04% accuracy, and none of the coefficients are significant at any level. So, not off to a great start. 
+This first regression model estimates $won = \beta_0 + \beta_1(penalty count) + \beta_2(penalty yards) + \beta_3(penalty differential) + \beta_4(penalty yard differential)$. This model only predicts wins and losses with 52.04% accuracy, and none of the coefficients are significant at any level. So, not off to a great start. (insert model summaries)
 ```{r, echo = F, eval = T}
 mod1 <- glm(won ~ oYards + points + to + tDiff + penDiff + ydsDiff +
             pYdDiff + home, data = train, family = "binomial")
 summary(mod1)
-exp(-0.013638)
 ```
-
+```{r, echo = F, eval = T}
+vif1 <- vif(mod1)
+vif1
+```
+All VIFs for this model are <5, which is great. We can assume that multicollinearity is not going to be an issue here. Furthermore, it seems safe to assume that the coefficients are relatively trustworthy. 
+(insert model summaries)
 ```{r, echo = F, eval = T}
 y = predict(mod1, train, type = "response")
 
@@ -221,10 +232,31 @@ y_hat <- ifelse(y > .50, 1, 0) |>
 lgCm <- confusionMatrix(data = y_hat, reference = train$won, positive = "1")
 lgCm
 ```
-The model predicts wins and losses with 87.92% accuracy, which is pretty good. I used a cutoff of 0.5 probability of winning to determine if a team should be classified as winning or losing. The only penalty-related coefficient significant at any level ($p = 0.0348$) is penalty yard differential. A 1-yard increase in penalty yard differential leads to a predicted change in win probability by a factor of $e^{-0.0137}$, or 0.9865. This equates to a roughly 1.5% reduction in winning odds. It is important to remember that the standard deviation of that variable is 31, meaning a one standard deviation increase in penalty yard differential would lead to a (follow up on this because it feels wrong.)
 
-Based on this model, 
+(insert confusion matrices)
+The model predicts wins and losses with 87.92% accuracy, which is pretty good. I used a cutoff of 0.5 probability of winning to determine if a team should be classified as winning or losing. The only penalty-related coefficient significant at any level ($p = 0.0348$) is penalty yard differential. A 1-yard increase in penalty yard differential leads to a predicted change in win probability by a factor of $e^{-0.0137}$, or 0.9864. This equates to a roughly 1.5% reduction in winning odds. It is important to remember that the standard deviation of that variable is 31, meaning a one standard deviation increase in penalty yard differential would lead to a factor change of 0.654, or a reduction by a factor of roughly 0.346. (follow up on this because it feels wrong.)(odds ratio)
+```{r, echo = F, eval = T}
+mod2 <- glm(hWin ~ points + to + tDiff + penDiff + ydsDiff +
+            pYdDiff + home + crew, data = train, family = "binomial")
+summary(mod2)
+```
+#add separate models for penalty differential and penalty yard differential?
+```{r, echo = F, eval = T}
+vif2 <- vif(mod2)
+vif2
+```
+```{r, echo = F, eval = T}
+y = predict(mod2, train, type = "response")
 
+y_hat <- ifelse(y > .50, 1, 0) |>
+  factor(levels = levels(train$won))
+
+lgCm <- confusionMatrix(data = y_hat, reference = train$won, positive = "1")
+lgCm
+```
+
+
+To assess potential reference bias, I created variable named "hWin" which equals 1 if the winning team was also the home team. This model assesses how a teams odds of winning when they are the home team change based on referee crew. It will include all the same variables as the previous model, with 18 dummy variables (one for each crew.)
 
 
 # Conclusion 

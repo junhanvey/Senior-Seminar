@@ -1,0 +1,544 @@
+Away,Home,Date,Crew,Accepted,Yards,aCount,aYards,hCount,hYards,total
+Detroit,Kansas City,9/7/2023,John Hussey,7,88,4,63,3,25,11
+Houston,Baltimore,9/10/2023,Tra Blake,22,194,9,88,13,106,24
+Las Vegas,Denver,9/10/2023,Bill Vinovich,20,180,10,97,10,83,20
+San Francisco,Pittsburgh,9/10/2023,Alex Kemp,17,145,11,85,6,60,19
+Arizona,Washington,9/10/2023,Alan Eck,17,191,9,122,8,69,19
+Green Bay,Chicago,9/10/2023,Craig Wrolstad,16,151,9,90,7,61,21
+Carolina,Atlanta,9/10/2023,Brad Rogers,15,109,9,66,6,43,18
+LA Rams,Seattle,9/10/2023,Shawn Smith,14,108,7,53,7,55,16
+Tennessee,New Orleans,9/10/2023,Ron Torbert,13,90,6,45,7,45,16
+Miami,LA Chargers,9/10/2023,Brad Allen,12,108,6,38,6,70,14
+Philadelphia,New England,9/10/2023,Shawn Hochuli,12,99,5,49,7,50,13
+Dallas,N.Y. Giants,9/10/2023,Adrian Hill,11,107,5,35,6,72,13
+Cincinnati,Cleveland,9/10/2023,Clete Blakeman,9,63,4,20,5,43,11
+Tampa Bay,Minnesota,9/10/2023,Scott Novak,9,64,3,19,6,45,12
+Jacksonville,Indianapolis,9/10/2023,Clay Martin,8,80,4,45,4,35,9
+Buffalo,N.Y. Jets,9/11/2023,Carl Cheffers,7,50,5,40,2,10,11
+Minnesota,Philadelphia,9/14/2023,Clay Martin,9,60,2,15,7,45,9
+N.Y. Giants,Arizona,9/17/2023,Land Clark,17,132,9,75,8,57,18
+Washington,Denver,9/17/2023,Brad Rogers,17,129,8,71,9,58,19
+Kansas City,Jacksonville,9/17/2023,Adrian Hill,14,104,12,94,2,10,19
+Green Bay,Atlanta,9/17/2023,Tra Blake,13,150,7,40,6,110,15
+Seattle,Detroit,9/17/2023,Alex Kemp,13,104,9,80,4,24,18
+Chicago,Tampa Bay,9/17/2023,Bill Vinovich,12,82,5,28,7,54,14
+San Francisco,LA Rams,9/17/2023,Brad Allen,12,112,6,57,6,55,13
+Baltimore,Cincinnati,9/17/2023,Shawn Hochuli,11,86,6,56,5,30,12
+Indianapolis,Houston,9/17/2023,Carl Cheffers,11,62,8,42,3,20,13
+LA Chargers,Tennessee,9/17/2023,Alan Eck,11,88,4,43,7,45,13
+N.Y. Jets,Dallas,9/17/2023,Clete Blakeman,11,67,5,29,6,38,16
+Miami,New England,9/17/2023,Shawn Smith,11,91,6,46,5,45,12
+Las Vegas,Buffalo,9/17/2023,Craig Wrolstad,6,60,2,30,4,30,11
+Cleveland,Pittsburgh,9/18/2023,Ron Torbert,13,112,8,81,5,31,15
+New Orleans,Carolina,9/18/2023,Scott Novak,9,67,3,32,6,35,10
+N.Y. Giants,San Francisco,9/21/2023,Shawn Hochuli,12,108,6,37,6,71,19
+Carolina,Seattle,9/24/2023,Ron Torbert,21,164,13,82,8,82,23
+Dallas,Arizona,9/24/2023,Alex Kemp,21,176,13,107,8,69,28
+New Orleans,Green Bay,9/24/2023,Brad Rogers,18,192,7,102,11,90,21
+LA Chargers,Minnesota,9/24/2023,Shawn Smith,18,139,12,94,6,45,22
+Atlanta,Detroit,9/24/2023,Land Clark,14,143,4,24,10,119,16
+Houston,Jacksonville,9/24/2023,Scott Novak,14,124,8,75,6,49,17
+Tennessee,Cleveland,9/24/2023,Craig Wrolstad,13,126,8,80,5,46,15
+Denver,Miami,9/24/2023,Clay Martin,13,101,7,46,6,55,15
+Pittsburgh,Las Vegas,9/24/2023,Tra Blake,13,105,6,45,7,60,14
+New England,N.Y. Jets,9/24/2023,Bill Vinovich,9,58,6,43,3,15,9
+Chicago,Kansas City,9/24/2023,Alan Eck,9,47,6,32,3,15,12
+Buffalo,Washington,9/24/2023,Land Clark,8,60,6,45,2,15,9
+Indianapolis,Baltimore,9/24/2023,Clete Blakeman,7,36,6,31,1,5,9
+LA Rams,Cincinnati,9/25/2023,John Hussey,11,77,4,28,7,49,13
+Philadelphia,Tampa Bay,9/25/2023,Adrian Hill,7,40,3,20,4,20,7
+Detroit,Green Bay,9/28/2023,Alan Eck,12,101,8,70,4,31,14
+Tampa Bay,New Orleans,10/1/2023,Shawn Hochuli,18,149,11,91,7,58,22
+Washington,Philadelphia,10/1/2023,Ron Torbert,18,122,7,41,11,81,21
+Denver,Chicago,10/1/2023,Carl Cheffers,17,130,7,39,10,91,18
+LA Rams,Indianapolis,10/1/2023,Land Clark,16,165,8,85,8,80,19
+Baltimore,Cleveland,10/1/2023,Brad Allen,15,134,8,92,7,42,21
+Minnesota,Carolina,10/1/2023,Tra Blake,13,117,7,37,6,80,14
+Las Vegas,LA Chargers,10/1/2023,John Hussey,13,114,9,80,4,34,13
+Arizona,San Francisco,10/1/2023,Clete Blakeman,13,76,9,55,4,21,14
+Miami,Buffalo,10/1/2023,Adrian Hill,12,118,8,98,4,20,14
+Kansas City,N.Y. Jets,10/1/2023,Alex Kemp,12,88,5,46,7,42,15
+New England,Dallas,10/1/2023,Scott Novak,11,82,6,50,5,32,17
+Pittsburgh,Houston,10/1/2023,Bill Vinovich,10,81,2,18,8,63,13
+Cincinnati,Tennessee,10/1/2023,Shawn Smith,10,67,5,40,5,27,14
+Atlanta,Jacksonville,10/1/2023,Craig Wrolstad,6,75,3,50,3,25,9
+Seattle,N.Y. Giants,10/2/2023,Brad Rogers,14,119,8,74,6,45,19
+Chicago,Washington,10/5/2023,Scott Novak,4,40,3,35,1,5,6
+Jacksonville,Buffalo,10/8/2023,Shawn Smith,19,165,8,56,11,109,25
+New Orleans,New England,10/8/2023,Alex Kemp,17,116,12,86,5,30,19
+Kansas City,Minnesota,10/8/2023,Land Clark,14,137,10,86,4,51,15
+N.Y. Jets,Denver,10/8/2023,John Hussey,13,102,9,71,4,31,15
+Houston,Atlanta,10/8/2023,Shawn Hochuli,12,80,5,25,7,55,18
+Carolina,Detroit,10/8/2023,Adrian Hill,12,80,7,45,5,35,17
+Tennessee,Indianapolis,10/8/2023,Brad Rogers,12,113,4,58,8,55,14
+N.Y. Giants,Miami,10/8/2023,Ron Torbert,12,86,6,43,6,43,13
+Dallas,San Francisco,10/8/2023,Alan Eck,12,105,6,60,6,45,13
+Philadelphia,LA Rams,10/8/2023,Bill Vinovich,8,83,3,35,5,48,9
+Cincinnati,Arizona,10/8/2023,Clay Martin,6,56,4,40,2,16,7
+Baltimore,Pittsburgh,10/8/2023,Carl Cheffers,5,50,2,20,3,30,7
+Green Bay,Las Vegas,10/9/2023,Brad Allen,7,46,3,18,4,28,8
+Denver,Kansas City,10/12/2023,Shawn Hochuli,10,118,3,34,7,84,12
+San Francisco,Cleveland,10/15/2023,John Hussey,25,224,12,105,13,119,26
+New England,Las Vegas,10/15/2023,Brad Rogers,16,121,10,79,6,42,18
+N.Y. Giants,Buffalo,10/15/2023,Tra Blake,16,116,9,65,7,51,25
+Baltimore,Tennessee,10/15/2023,Bill Vinovich,15,133,9,88,6,45,18
+Philadelphia,N.Y. Jets,10/15/2023,Scott Novak,14,114,5,46,9,68,15
+Seattle,Cincinnati,10/15/2023,Adrian Hill,12,107,7,64,5,43,16
+Indianapolis,Jacksonville,10/15/2023,Alex Kemp,11,71,6,46,5,25,11
+Arizona,LA Rams,10/15/2023,Ron Torbert,11,95,5,36,6,59,12
+Washington,Atlanta,10/15/2023,Clete Blakeman,10,71,6,40,4,31,14
+Minnesota,Chicago,10/15/2023,Brad Allen,10,92,5,63,5,29,12
+New Orleans,Houston,10/15/2023,Alan Eck,10,112,7,83,3,29,13
+Detroit,Tampa Bay,10/15/2023,Clay Martin,10,68,5,35,5,33,10
+Carolina,Miami,10/15/2023,Craig Wrolstad,6,36,3,11,3,25,9
+Dallas,LA Chargers,10/16/2023,Land Clark,20,164,11,85,9,79,25
+Jacksonville,New Orleans,10/19/2023,Land Clark,8,76,5,42,3,34,9
+Atlanta,Tampa Bay,10/22/2023,Ron Torbert,18,126,9,60,9,66,19
+Buffalo,New England,10/22/2023,Clete Blakeman,17,105,9,46,8,59,19
+Green Bay,Denver,10/22/2023,Alex Kemp,15,116,7,56,8,60,16
+Washington,N.Y. Giants,10/22/2023,John Hussey,14,115,10,75,4,40,17
+Pittsburgh,LA Rams,10/22/2023,Craig Wrolstad,13,116,8,76,5,40,17
+Cleveland,Indianapolis,10/22/2023,Shawn Smith,12,87,4,20,8,67,17
+Arizona,Seattle,10/22/2023,Scott Novak,12,92,7,60,5,32,19
+Las Vegas,Chicago,10/22/2023,Clay Martin,11,125,2,15,9,110,11
+LA Chargers,Kansas City,10/22/2023,Tra Blake,10,86,4,43,6,43,12
+Miami,Philadelphia,10/22/2023,Brad Allen,10,70,10,70,0,0,14
+Detroit,Baltimore,10/22/2023,Brad Rogers,9,102,5,57,4,45,13
+San Francisco,Minnesota,10/23/2023,Carl Cheffers,10,72,5,37,5,35,13
+Tampa Bay,Buffalo,10/26/2023,Scott Novak,20,160,11,74,9,86,20
+Minnesota,Green Bay,10/29/2023,Shawn Hochuli,18,134,7,35,11,99,21
+N.Y. Jets,N.Y. Giants,10/29/2023,Shawn Smith,15,158,9,85,6,73,20
+New Orleans,Indianapolis,10/29/2023,Craig Wrolstad,14,103,8,73,6,30,15
+Houston,Carolina,10/29/2023,John Hussey,13,90,10,70,3,20,14
+Jacksonville,Pittsburgh,10/29/2023,Alan Eck,12,124,6,72,6,52,16
+Baltimore,Arizona,10/29/2023,Tra Blake,12,115,6,45,6,70,12
+Cleveland,Seattle,10/29/2023,Bill Vinovich,11,68,4,25,7,43,11
+Kansas City,Denver,10/29/2023,Brad Allen,11,73,5,38,6,35,14
+New England,Miami,10/29/2023,Land Clark,10,70,7,45,3,25,10
+Philadelphia,Washington,10/29/2023,Carl Cheffers,10,93,3,14,7,79,12
+Atlanta,Tennessee,10/29/2023,Clay Martin,9,68,3,15,6,53,11
+Chicago,LA Chargers,10/29/2023,Brad Rogers,9,68,7,53,2,15,14
+LA Rams,Dallas,10/29/2023,Adrian Hill,8,46,4,25,4,21,8
+Cincinnati,San Francisco,10/29/2023,Ron Torbert,6,69,1,15,5,54,11
+Las Vegas,Detroit,10/30/2023,Clete Blakeman,9,95,4,40,5,55,12
+Tennessee,Pittsburgh,11/2/2023,John Hussey,17,131,7,51,10,80,20
+Dallas,Philadelphia,11/5/2023,Tra Blake,20,181,10,83,10,98,23
+Tampa Bay,Houston,11/5/2023,Land Clark,18,205,9,90,9,115,25
+Miami,Kansas City,11/5/2023,Clay Martin,15,114,6,45,9,69,20
+Indianapolis,Carolina,11/5/2023,Bill Vinovich,15,106,5,25,10,81,21
+LA Rams,Green Bay,11/5/2023,Clete Blakeman,13,93,5,36,8,57,16
+Buffalo,Cincinnati,11/5/2023,Alex Kemp,11,98,5,49,6,49,13
+Arizona,Cleveland,11/5/2023,Carl Cheffers,10,105,4,40,6,65,13
+Minnesota,Atlanta,11/5/2023,Shawn Smith,9,66,1,4,8,62,10
+Chicago,New Orleans,11/5/2023,Ron Torbert,9,76,8,71,1,5,10
+Seattle,Baltimore,11/5/2023,Shawn Hochuli,8,40,5,29,3,11,9
+Washington,New England,11/5/2023,Adrian Hill,8,60,4,30,4,30,10
+N.Y. Giants,Las Vegas,11/5/2023,Alan Eck,7,38,3,8,4,30,8
+LA Chargers,N.Y. Jets,11/6/2023,Craig Wrolstad,12,79,4,39,8,40,14
+Carolina,Chicago,11/9/2023,Clete Blakeman,12,89,5,45,7,44,15
+Cleveland,Baltimore,11/12/2023,Land Clark,17,119,10,55,7,64,20
+Atlanta,Arizona,11/12/2023,Craig Wrolstad,15,155,4,43,11,112,19
+New Orleans,Minnesota,11/12/2023,Adrian Hill,14,109,9,74,5,35,18
+Washington,Seattle,11/12/2023,Alex Kemp,14,89,6,39,8,50,15
+San Francisco,Jacksonville,11/12/2023,Brad Allen,12,129,7,90,5,39,13
+Tennessee,Tampa Bay,11/12/2023,Alan Eck,12,85,5,35,7,50,12
+Houston,Cincinnati,11/12/2023,Carl Cheffers,11,113,7,50,4,63,14
+N.Y. Giants,Dallas,11/12/2023,Brad Rogers,11,88,2,5,9,83,15
+N.Y. Jets,Las Vegas,11/12/2023,Shawn Hochuli,11,108,8,83,3,25,12
+Indianapolis,New England,11/12/2023,Tra Blake,9,68,4,34,5,34,9
+Green Bay,Pittsburgh,11/12/2023,Scott Novak,8,59,5,32,3,27,11
+Detroit,LA Chargers,11/12/2023,Shawn Smith,7,80,4,44,3,36,9
+Denver,Buffalo,11/13/2023,Bill Vinovich,15,124,10,61,5,63,15
+Cincinnati,Baltimore,11/16/2023,Adrian Hill,18,188,9,78,9,110,20
+Seattle,LA Rams,11/19/2023,Carl Cheffers,21,222,12,130,9,92,21
+Dallas,Carolina,11/19/2023,Clay Martin,13,135,5,45,8,90,15
+N.Y. Jets,Buffalo,11/19/2023,Alan Eck,13,112,5,35,8,77,15
+Chicago,Detroit,11/19/2023,Scott Novak,11,94,6,69,5,25,11
+LA Chargers,Green Bay,11/19/2023,John Hussey,11,100,4,54,7,46,12
+Tennessee,Jacksonville,11/19/2023,Brad Rogers,11,95,7,66,4,29,12
+Las Vegas,Miami,11/19/2023,Bill Vinovich,10,85,5,41,5,44,14
+Tampa Bay,San Francisco,11/19/2023,Craig Wrolstad,10,85,3,19,7,66,12
+Minnesota,Denver,11/19/2023,Ron Torbert,10,103,6,55,4,48,13
+Arizona,Houston,11/19/2023,Alex Kemp,8,69,5,50,3,19,8
+Pittsburgh,Cleveland,11/19/2023,Shawn Hochuli,7,56,6,46,1,10,10
+N.Y. Giants,Washington,11/19/2023,Brad Allen,6,38,5,33,1,5,8
+Philadelphia,Kansas City,11/20/2023,Shawn Smith,14,116,7,61,7,55,16
+Green Bay,Detroit,11/23/2023,Carl Cheffers,14,111,7,60,7,51,16
+Washington,Dallas,11/23/2023,Bill Vinovich,11,73,4,25,7,48,12
+San Francisco,Seattle,11/23/2023,Tra Blake,8,59,3,20,5,39,11
+Miami,N.Y. Jets,11/24/2023,John Hussey,12,98,6,38,6,60,19
+Cleveland,Denver,11/26/2023,Adrian Hill,16,137,8,66,8,71,18
+Buffalo,Philadelphia,11/26/2023,Shawn Hochuli,15,110,11,80,4,30,17
+Jacksonville,Houston,11/26/2023,Clay Martin,13,84,6,35,7,49,14
+Carolina,Tennessee,11/26/2023,Ron Torbert,12,88,4,35,8,53,13
+New Orleans,Atlanta,11/26/2023,Brad Allen,11,85,6,50,5,35,14
+Pittsburgh,Cincinnati,11/26/2023,Brad Rogers,10,91,5,55,5,36,11
+LA Rams,Arizona,11/26/2023,Shawn Smith,10,57,5,23,5,34,14
+Baltimore,LA Chargers,11/26/2023,Alan Eck,10,83,5,42,5,41,11
+Tampa Bay,Indianapolis,11/26/2023,Clete Blakeman,9,64,4,24,5,40,10
+New England,N.Y. Giants,11/26/2023,Scott Novak,6,50,2,13,4,37,9
+Kansas City,Las Vegas,11/26/2023,Land Clark,4,40,4,40,0,0,7
+Chicago,Minnesota,11/27/2023,Alex Kemp,11,100,7,76,4,24,16
+Seattle,Dallas,11/30/2023,Clete Blakeman,19,257,10,130,9,127,25
+Atlanta,N.Y. Jets,12/3/2023,Ron Torbert,17,126,6,55,11,71,19
+Arizona,Pittsburgh,12/3/2023,Land Clark,15,128,6,51,9,77,16
+Cleveland,LA Rams,12/3/2023,John Hussey,14,131,7,86,7,45,18
+Indianapolis,Tennessee,12/3/2023,Craig Wrolstad,13,103,4,29,9,74,15
+Detroit,New Orleans,12/3/2023,Clay Martin,12,95,6,45,6,50,14
+Carolina,Tampa Bay,12/3/2023,Brad Rogers,12,98,7,62,5,36,14
+San Francisco,Philadelphia,12/3/2023,Alex Kemp,12,94,5,47,7,47,13
+Kansas City,Green Bay,12/3/2023,Brad Allen,12,113,5,50,7,63,15
+Denver,Houston,12/3/2023,Shawn Smith,10,89,2,8,8,81,12
+LA Chargers,New England,12/3/2023,Bill Vinovich,7,34,4,20,3,14,8
+Miami,Washington,12/3/2023,Tra Blake,5,46,2,15,3,31,7
+Cincinnati,Jacksonville,12/4/2023,Scott Novak,13,90,6,35,7,55,15
+New England,Pittsburgh,12/7/2023,Clay Martin,8,64,7,59,1,5,9
+Philadelphia,Dallas,12/10/2023,John Hussey,17,155,10,95,7,60,17
+Jacksonville,Cleveland,12/10/2023,Ron Torbert,15,115,7,40,8,75,16
+Indianapolis,Cincinnati,12/10/2023,Shawn Hochuli,14,106,9,66,5,40,16
+LA Rams,Baltimore,12/10/2023,Scott Novak,12,113,5,34,7,79,13
+Detroit,Chicago,12/10/2023,Tra Blake,12,94,8,59,4,35,13
+Houston,N.Y. Jets,12/10/2023,Brad Allen,12,87,4,35,8,52,16
+Buffalo,Kansas City,12/10/2023,Carl Cheffers,11,80,4,35,7,45,12
+Seattle,San Francisco,12/10/2023,Brad Rogers,10,69,5,39,5,30,16
+Minnesota,Las Vegas,12/10/2023,Craig Wrolstad,9,73,5,36,4,37,15
+Carolina,New Orleans,12/10/2023,Alan Eck,7,57,4,27,3,30,7
+Tampa Bay,Atlanta,12/10/2023,Alex Kemp,6,36,4,26,2,10,7
+Denver,LA Chargers,12/10/2023,Clete Blakeman,6,36,4,26,2,10,8
+Tennessee,Miami,12/11/2023,Adrian Hill,16,120,9,59,7,61,18
+Green Bay,N.Y. Giants,12/11/2023,Land Clark,9,86,4,39,5,47,9
+LA Chargers,Las Vegas,12/14/2023,Ron Torbert,10,95,6,65,4,30,11
+Pittsburgh,Indianapolis,12/16/2023,Adrian Hill,10,111,8,101,2,10,11
+Minnesota,Cincinnati,12/16/2023,Bill Vinovich,7,48,4,22,3,26,7
+Denver,Detroit,12/16/2023,John Hussey,6,94,4,40,2,54,7
+N.Y. Jets,Miami,12/17/2023,Brad Rogers,16,120,7,55,9,65,17
+Chicago,Cleveland,12/17/2023,Brad Allen,13,67,4,19,9,48,14
+Houston,Tennessee,12/17/2023,Clete Blakeman,13,117,8,67,5,50,17
+Baltimore,Jacksonville,12/17/2023,Shawn Smith,12,101,6,54,6,47,13
+N.Y. Giants,New Orleans,12/17/2023,Carl Cheffers,11,90,5,32,6,58,13
+Atlanta,Carolina,12/17/2023,Land Clark,8,60,4,25,4,35,9
+Tampa Bay,Green Bay,12/17/2023,Tra Blake,8,83,4,52,4,31,8
+Washington,LA Rams,12/17/2023,Alan Eck,8,64,3,28,5,36,9
+Kansas City,New England,12/17/2023,Shawn Hochuli,7,60,2,15,5,45,11
+Dallas,Buffalo,12/17/2023,Craig Wrolstad,6,63,5,48,1,15,8
+San Francisco,Arizona,12/17/2023,Scott Novak,5,33,1,5,4,28,7
+Philadelphia,Seattle,12/18/2023,Clay Martin,10,75,5,40,5,35,12
+New Orleans,LA Rams,12/21/2023,Brad Rogers,6,45,3,20,3,25,7
+Buffalo,LA Chargers,12/23/2023,Adrian Hill,13,93,7,64,6,29,15
+Cincinnati,Pittsburgh,12/23/2023,Craig Wrolstad,5,35,3,20,2,15,8
+Washington,N.Y. Jets,12/24/2023,Clay Martin,22,218,8,68,14,150,26
+Cleveland,Houston,12/24/2023,Tra Blake,19,131,9,55,10,76,21
+Detroit,Minnesota,12/24/2023,Land Clark,17,116,9,52,8,64,20
+Seattle,Tennessee,12/24/2023,Shawn Smith,16,144,6,47,10,97,17
+Green Bay,Carolina,12/24/2023,Alex Kemp,14,154,6,67,8,87,15
+Dallas,Miami,12/24/2023,Shawn Hochuli,11,71,6,38,5,33,12
+Indianapolis,Atlanta,12/24/2023,Alan Eck,8,64,4,29,4,35,9
+Jacksonville,Tampa Bay,12/24/2023,Brad Allen,8,64,2,20,6,44,8
+Arizona,Chicago,12/24/2023,John Hussey,7,43,2,8,5,35,9
+New England,Denver,12/24/2023,Carl Cheffers,5,50,3,25,2,25,6
+Baltimore,San Francisco,12/25/2023,Bill Vinovich,16,169,6,67,10,102,19
+N.Y. Giants,Philadelphia,12/25/2023,Ron Torbert,12,78,3,13,9,65,16
+Las Vegas,Kansas City,12/25/2023,Clete Blakeman,9,64,4,20,5,44,15
+N.Y. Jets,Cleveland,12/28/2023,Alex Kemp,16,100,12,74,4,26,17
+Detroit,Dallas,12/30/2023,Brad Allen,11,69,6,35,5,34,12
+Miami,Baltimore,12/31/2023,Clete Blakeman,12,82,5,37,7,45,13
+Las Vegas,Indianapolis,12/31/2023,Shawn Smith,12,106,7,54,5,52,13
+LA Rams,N.Y. Giants,12/31/2023,Tra Blake,10,93,3,28,7,65,10
+New Orleans,Tampa Bay,12/31/2023,Land Clark,10,69,5,31,5,38,13
+LA Chargers,Denver,12/31/2023,Craig Wrolstad,10,97,3,48,7,49,10
+Green Bay,Minnesota,12/31/2023,Clay Martin,10,59,4,32,6,27,10
+Arizona,Philadelphia,12/31/2023,Bill Vinovich,9,74,5,25,4,49,9
+San Francisco,Washington,12/31/2023,Ron Torbert,8,60,3,20,5,40,8
+New England,Buffalo,12/31/2023,Alex Kemp,6,52,2,20,4,32,6
+Atlanta,Chicago,12/31/2023,Adrian Hill,6,70,1,15,5,55,7
+Pittsburgh,Seattle,12/31/2023,Shawn Hochuli,6,35,2,10,4,25,6
+Cincinnati,Kansas City,12/31/2023,John Hussey,6,59,3,20,3,39,10
+Tennessee,Houston,12/31/2023,Scott Novak,4,21,3,15,1,6,4
+Carolina,Jacksonville,12/31/2023,Carl Cheffers,4,39,3,24,1,15,6
+Houston,Indianapolis,1/6/2024,Bill Vinovich,14,83,11,69,3,14,15
+Pittsburgh,Baltimore,1/6/2024,Brad Allen,7,51,4,25,3,26,7
+Minnesota,Detroit,1/7/2024,Brad Rogers,12,97,8,77,4,20,14
+Atlanta,New Orleans,1/7/2024,John Hussey,11,90,8,75,3,15,12
+Jacksonville,Tennessee,1/7/2024,Tra Blake,11,69,6,40,5,29,11
+Buffalo,Miami,1/7/2024,Alex Kemp,10,70,6,41,4,29,13
+Cleveland,Cincinnati,1/7/2024,Alan Eck,8,45,7,35,1,10,8
+LA Rams,San Francisco,1/7/2024,Clay Martin,7,86,2,8,5,78,8
+Tampa Bay,Carolina,1/7/2024,Clete Blakeman,6,35,3,15,3,20,6
+Dallas,Washington,1/7/2024,Shawn Smith,6,59,2,20,4,39,6
+Seattle,Arizona,1/7/2024,Adrian Hill,5,27,0,0,5,27,5
+N.Y. Jets,New England,1/7/2024,Land Clark,5,40,1,5,4,35,6
+Philadelphia,N.Y. Giants,1/7/2024,Craig Wrolstad,5,31,2,10,3,21,6
+Kansas City,LA Chargers,1/7/2024,Scott Novak,4,62,3,57,1,5,5
+Denver,Las Vegas,1/7/2024,Shawn Hochuli,4,35,4,35,0,0,4
+Chicago,Green Bay,1/7/2024,Carl Cheffers,2,15,1,10,1,5,3
+Buffalo,LA Rams,9/8/2022,Carl Cheffers,9,65,5,35,4,30,9
+Jacksonville,Washington,9/11/2022,Tra Blake,19,153,13,90,6,63,21
+Cleveland,Carolina,9/11/2022,Brad Rogers,17,167,9,71,8,96,17
+Philadelphia,Detroit,9/11/2022,Brad Allen,17,126,10,61,7,65,20
+New Orleans,Atlanta,9/11/2022,Alex Kemp,16,154,8,99,8,55,19
+San Francisco,Chicago,9/11/2022,Clay Martin,15,123,12,99,3,24,17
+N.Y. Giants,Tennessee,9/11/2022,Jerome Boger,15,95,8,45,7,50,16
+Tampa Bay,Dallas,9/11/2022,Ron Torbert,15,98,5,25,10,73,15
+Indianapolis,Houston,9/11/2022,Land Clark,13,129,7,89,6,40,15
+Pittsburgh,Cincinnati,9/11/2022,Shawn Hochuli,12,86,8,59,4,27,14
+Baltimore,N.Y. Jets,9/11/2022,Craig Wrolstad,11,110,5,29,6,81,11
+Kansas City,Arizona,9/11/2022,Scott Novak,8,74,3,25,5,49,10
+Las Vegas,LA Chargers,9/11/2022,Shawn Smith,8,32,3,11,5,21,9
+New England,Miami,9/11/2022,John Hussey,7,35,3,15,4,20,10
+Green Bay,Minnesota,9/11/2022,Bill Vinovich,5,30,2,10,3,20,8
+Denver,Seattle,9/12/2022,Clete Blakeman,17,183,12,106,5,77,18
+LA Chargers,Kansas City,9/15/2022,John Hussey,9,79,3,25,6,54,14
+Arizona,Las Vegas,9/18/2022,Clete Blakeman,22,188,12,120,10,68,24
+Houston,Denver,9/18/2022,Carl Cheffers,21,194,8,94,13,100,25
+Tampa Bay,New Orleans,9/18/2022,Shawn Hochuli,17,161,8,101,9,60,19
+N.Y. Jets,Cleveland,9/18/2022,Tra Blake,13,95,8,57,5,38,15
+Carolina,N.Y. Giants,9/18/2022,Ron Torbert,13,100,5,38,8,62,15
+Cincinnati,Dallas,9/18/2022,Brad Allen,12,80,7,35,5,45,16
+Seattle,San Francisco,9/18/2022,Brad Rogers,11,132,10,106,1,26,13
+New England,Pittsburgh,9/18/2022,Land Clark,10,75,7,55,3,20,11
+Chicago,Green Bay,9/18/2022,Craig Wrolstad,10,75,7,50,3,25,12
+Miami,Baltimore,9/18/2022,Adrian Hill,9,56,8,51,1,5,13
+Indianapolis,Jacksonville,9/18/2022,Alex Kemp,8,49,5,30,3,19,13
+Atlanta,LA Rams,9/18/2022,Clay Martin,8,90,5,29,3,61,9
+Washington,Detroit,9/18/2022,Bill Vinovich,3,22,2,17,1,5,5
+Tennessee,Buffalo,9/19/2022,Shawn Smith,17,136,9,87,8,49,21
+Minnesota,Philadelphia,9/19/2022,Scott Novak,13,85,5,25,8,60,15
+Pittsburgh,Cleveland,9/22/2022,Clay Martin,10,49,5,25,5,24,14
+Green Bay,Tampa Bay,9/25/2022,Scott Novak,14,105,8,65,6,40,15
+Las Vegas,Tennessee,9/25/2022,Brad Rogers,13,129,6,44,7,85,16
+LA Rams,Arizona,9/25/2022,Adrian Hill,12,85,6,35,6,50,13
+San Francisco,Denver,9/25/2022,Shawn Hochuli,12,70,7,40,5,30,14
+New Orleans,Carolina,9/25/2022,Carl Cheffers,11,98,7,58,4,40,14
+Buffalo,Miami,9/25/2022,Alex Kemp,11,72,7,52,4,20,14
+Kansas City,Indianapolis,9/25/2022,Shawn Smith,10,79,6,45,4,34,12
+Detroit,Minnesota,9/25/2022,John Hussey,10,74,7,59,3,15,13
+Houston,Chicago,9/25/2022,Clete Blakeman,9,57,3,25,6,32,12
+Cincinnati,N.Y. Jets,9/25/2022,Jerome Boger,9,85,5,30,4,55,11
+Philadelphia,Washington,9/25/2022,Ron Torbert,9,100,5,52,4,48,10
+Jacksonville,LA Chargers,9/25/2022,Craig Wrolstad,9,64,2,10,7,54,11
+Atlanta,Seattle,9/25/2022,Tra Blake,8,62,2,15,6,47,10
+Baltimore,New England,9/25/2022,Bill Vinovich,5,26,2,10,3,16,7
+Dallas,N.Y. Giants,9/26/2022,Land Clark,16,127,8,70,8,57,21
+Miami,Cincinnati,9/29/2022,Tra Blake,12,115,6,41,6,74,15
+Seattle,Detroit,10/2/2022,Clay Martin,19,135,11,76,8,59,24
+Minnesota,New Orleans,10/2/2022,Clete Blakeman,15,137,5,35,10,102,17
+Washington,Dallas,10/2/2022,Shawn Smith,15,156,11,136,4,20,16
+LA Chargers,Houston,10/2/2022,Alex Kemp,15,128,6,61,9,67,19
+N.Y. Jets,Pittsburgh,10/2/2022,Brad Rogers,15,119,7,64,8,55,17
+Buffalo,Baltimore,10/2/2022,Jerome Boger,13,101,4,31,9,70,15
+Tennessee,Indianapolis,10/2/2022,Scott Novak,13,90,6,40,7,50,16
+Arizona,Carolina,10/2/2022,John Hussey,13,137,7,61,6,76,16
+Chicago,N.Y. Giants,10/2/2022,Carl Cheffers,12,120,5,65,7,55,14
+New England,Green Bay,10/2/2022,Adrian Hill,11,115,7,75,4,40,13
+Denver,Las Vegas,10/2/2022,Land Clark,11,75,7,50,4,25,14
+Kansas City,Tampa Bay,10/2/2022,Bill Vinovich,9,72,4,32,5,40,11
+Cleveland,Atlanta,10/2/2022,Craig Wrolstad,8,66,7,51,1,15,11
+Jacksonville,Philadelphia,10/2/2022,Shawn Hochuli,7,58,4,38,3,20,11
+LA Rams,San Francisco,10/3/2022,Brad Allen,5,30,1,5,4,25,5
+Indianapolis,Denver,10/6/2022,Brad Rogers,15,113,8,64,7,49,17
+Seattle,New Orleans,10/9/2022,Brad Allen,18,142,12,85,6,57,21
+Tennessee,Washington,10/9/2022,Land Clark,17,140,8,69,9,71,20
+Miami,N.Y. Jets,10/9/2022,Clay Martin,16,207,11,102,5,105,17
+San Francisco,Carolina,10/9/2022,Shawn Smith,14,83,9,50,5,33,16
+N.Y. Giants,Green Bay,10/9/2022,Alex Kemp,13,100,6,63,7,37,14
+Chicago,Minnesota,10/9/2022,Shawn Hochuli,13,110,6,40,7,70,15
+Detroit,New England,10/9/2022,Craig Wrolstad,13,128,7,82,6,46,14
+Atlanta,Tampa Bay,10/9/2022,Jerome Boger,12,100,6,55,6,45,12
+Pittsburgh,Buffalo,10/9/2022,John Hussey,11,82,6,54,5,28,14
+LA Chargers,Cleveland,10/9/2022,Adrian Hill,10,82,4,17,6,65,13
+Houston,Jacksonville,10/9/2022,Ron Torbert,10,73,4,25,6,48,13
+Cincinnati,Baltimore,10/9/2022,Scott Novak,10,68,4,20,6,48,11
+Dallas,LA Rams,10/9/2022,Bill Vinovich,8,67,5,42,3,25,11
+Philadelphia,Arizona,10/9/2022,Tra Blake,5,45,3,30,2,15,5
+Las Vegas,Kansas City,10/10/2022,Carl Cheffers,16,171,11,99,5,72,18
+Washington,Chicago,10/13/2022,Adrian Hill,11,78,7,36,4,42,12
+New England,Cleveland,10/16/2022,Scott Novak,19,155,12,92,7,63,19
+N.Y. Jets,Green Bay,10/16/2022,Clete Blakeman,14,121,7,79,7,42,16
+Baltimore,N.Y. Giants,10/16/2022,Clay Martin,13,99,10,74,3,25,14
+Tampa Bay,Pittsburgh,10/16/2022,Shawn Smith,13,87,6,42,7,45,17
+Minnesota,Miami,10/16/2022,Brad Rogers,12,117,2,20,10,97,13
+Arizona,Seattle,10/16/2022,Shawn Hochuli,12,97,6,53,6,44,15
+Buffalo,Kansas City,10/16/2022,Brad Allen,12,93,7,35,5,58,16
+Dallas,Philadelphia,10/16/2022,John Hussey,12,82,10,72,2,10,14
+Jacksonville,Indianapolis,10/16/2022,Jerome Boger,11,96,4,44,7,52,11
+San Francisco,Atlanta,10/16/2022,Carl Cheffers,10,70,5,30,5,40,10
+Carolina,LA Rams,10/16/2022,Tra Blake,10,79,3,30,7,49,13
+Cincinnati,New Orleans,10/16/2022,Land Clark,7,64,3,30,4,34,8
+Denver,LA Chargers,10/17/2022,Ron Torbert,19,240,10,151,9,89,19
+New Orleans,Arizona,10/20/2022,Jerome Boger,12,69,8,49,4,20,14
+N.Y. Giants,Jacksonville,10/23/2022,Tra Blake,21,148,8,67,13,81,23
+Kansas City,San Francisco,10/23/2022,Alex Kemp,18,164,8,84,10,80,26
+Green Bay,Washington,10/23/2022,Clay Martin,16,123,9,69,7,54,20
+Detroit,Dallas,10/23/2022,Adrian Hill,15,114,8,59,7,55,16
+N.Y. Jets,Denver,10/23/2022,Bill Vinovich,15,119,11,85,4,34,16
+Seattle,LA Chargers,10/23/2022,Land Clark,14,138,7,68,7,70,16
+Pittsburgh,Miami,10/23/2022,Scott Novak,10,70,5,40,5,30,10
+Cleveland,Baltimore,10/23/2022,Shawn Smith,9,98,6,45,3,53,10
+Atlanta,Cincinnati,10/23/2022,Clete Blakeman,8,39,3,22,5,17,11
+Houston,Las Vegas,10/23/2022,John Hussey,8,58,3,14,5,44,8
+Tampa Bay,Carolina,10/23/2022,Craig Wrolstad,7,45,4,30,3,15,9
+Indianapolis,Tennessee,10/23/2022,Ron Torbert,6,43,4,28,2,15,9
+Chicago,New England,10/24/2022,Brad Allen,8,65,4,35,4,30,12
+Baltimore,Tampa Bay,10/27/2022,Carl Cheffers,11,136,7,101,4,35,13
+Arizona,Minnesota,10/30/2022,Brad Allen,20,153,10,67,10,86,24
+Denver,Jacksonville,10/30/2022,Adrian Hill,17,135,12,81,5,54,18
+Pittsburgh,Philadelphia,10/30/2022,Clete Blakeman,17,120,9,60,8,60,17
+Carolina,Atlanta,10/30/2022,Shawn Hochuli,16,138,9,74,7,64,19
+Miami,Detroit,10/30/2022,Alex Kemp,13,85,7,55,6,30,24
+Chicago,Dallas,10/30/2022,Brad Rogers,12,86,6,45,6,41,13
+Tennessee,Houston,10/30/2022,Clay Martin,12,80,6,35,6,45,14
+Green Bay,Buffalo,10/30/2022,Ron Torbert,12,93,8,58,4,35,13
+Las Vegas,New Orleans,10/30/2022,Scott Novak,11,86,6,59,5,27,11
+New England,N.Y. Jets,10/30/2022,Shawn Smith,10,95,6,54,4,41,11
+N.Y. Giants,Seattle,10/30/2022,Jerome Boger,9,78,6,53,3,25,9
+San Francisco,LA Rams,10/30/2022,John Hussey,7,58,3,8,4,50,8
+Washington,Indianapolis,10/30/2022,Craig Wrolstad,6,77,3,52,3,25,6
+Cincinnati,Cleveland,10/31/2022,Bill Vinovich,8,62,2,6,6,56,9
+Philadelphia,Houston,11/3/2022,Craig Wrolstad,8,59,4,31,4,28,9
+Seattle,Arizona,11/6/2022,Carl Cheffers,18,111,6,34,12,77,19
+Tennessee,Kansas City,11/6/2022,Clete Blakeman,18,120,8,51,10,69,24
+Green Bay,Detroit,11/6/2022,Tra Blake,15,143,8,81,7,62,15
+Carolina,Cincinnati,11/6/2022,Alex Kemp,12,85,7,50,5,35,18
+LA Rams,Tampa Bay,11/6/2022,Shawn Hochuli,11,108,4,53,7,55,13
+Las Vegas,Jacksonville,11/6/2022,Bill Vinovich,9,75,5,45,4,30,12
+Minnesota,Washington,11/6/2022,Jerome Boger,8,68,5,42,3,26,8
+LA Chargers,Atlanta,11/6/2022,John Hussey,7,60,5,45,2,15,9
+Miami,Chicago,11/6/2022,Ron Torbert,7,130,3,38,4,92,10
+Indianapolis,New England,11/6/2022,Clay Martin,6,50,2,15,4,35,8
+Buffalo,N.Y. Jets,11/6/2022,Land Clark,6,60,3,30,3,30,6
+Baltimore,New Orleans,11/7/2022,Brad Rogers,10,71,5,31,5,40,10
+Atlanta,Carolina,11/10/2022,Adrian Hill,14,126,4,37,10,89,18
+Denver,Tennessee,11/13/2022,Scott Novak,17,110,8,50,9,60,19
+Dallas,Green Bay,11/13/2022,Brad Allen,15,123,9,83,6,40,20
+Arizona,LA Rams,11/13/2022,Clete Blakeman,15,96,10,67,5,29,15
+Minnesota,Buffalo,11/13/2022,Craig Wrolstad,14,128,7,64,7,64,15
+Indianapolis,Las Vegas,11/13/2022,Tra Blake,14,99,4,25,10,74,17
+New Orleans,Pittsburgh,11/13/2022,Carl Cheffers,13,114,10,74,3,40,14
+Houston,N.Y. Giants,11/13/2022,Bill Vinovich,12,64,7,40,5,24,18
+Detroit,Chicago,11/13/2022,Land Clark,11,101,2,15,9,86,12
+Cleveland,Miami,11/13/2022,Shawn Hochuli,11,95,6,52,5,43,13
+Seattle,Tampa Bay,11/13/2022,John Hussey,10,86,6,46,4,40,10
+LA Chargers,San Francisco,11/13/2022,Shawn Smith,6,57,1,5,5,52,10
+Jacksonville,Kansas City,11/13/2022,Brad Rogers,5,30,5,30,0,0,6
+Washington,Philadelphia,11/14/2022,Alex Kemp,12,133,5,58,7,75,13
+Tennessee,Green Bay,11/17/2022,Bill Vinovich,7,60,2,20,5,40,8
+Carolina,Baltimore,11/20/2022,Jerome Boger,19,159,9,66,10,93,20
+Philadelphia,Indianapolis,11/20/2022,Land Clark,15,145,7,55,8,90,15
+Cleveland,Buffalo,11/20/2022,Adrian Hill,14,131,6,42,8,89,18
+Las Vegas,Denver,11/20/2022,Shawn Smith,14,143,9,98,5,45,16
+Cincinnati,Pittsburgh,11/20/2022,Brad Allen,14,114,6,44,8,70,14
+Detroit,N.Y. Giants,11/20/2022,Brad Rogers,13,108,5,45,8,63,15
+Dallas,Minnesota,11/20/2022,Clay Martin,13,98,6,39,7,59,15
+N.Y. Jets,New England,11/20/2022,Carl Cheffers,11,70,3,15,8,55,14
+Chicago,Atlanta,11/20/2022,Tra Blake,9,69,7,56,2,13,11
+LA Rams,New Orleans,11/20/2022,Ron Torbert,8,70,6,55,2,15,8
+Kansas City,LA Chargers,11/20/2022,Shawn Hochuli,8,79,4,54,4,25,9
+Washington,Houston,11/20/2022,Scott Novak,7,51,5,36,2,15,12
+San Francisco,Arizona,11/21/2022,Craig Wrolstad,8,80,3,30,5,50,11
+N.Y. Giants,Dallas,11/24/2022,Scott Novak,20,152,7,66,13,86,22
+New England,Minnesota,11/24/2022,Alex Kemp,9,75,6,55,3,20,9
+Buffalo,Detroit,11/24/2022,Clete Blakeman,8,68,5,36,3,32,10
+Cincinnati,Tennessee,11/27/2022,Carl Cheffers,17,137,9,80,8,57,18
+Tampa Bay,Cleveland,11/27/2022,Tra Blake,14,112,9,70,5,42,17
+New Orleans,San Francisco,11/27/2022,Shawn Hochuli,13,110,6,46,7,64,18
+Houston,Miami,11/27/2022,Jerome Boger,9,80,5,45,4,35,9
+Las Vegas,Seattle,11/27/2022,Brad Allen,9,60,7,50,2,10,9
+Denver,Carolina,11/27/2022,Clay Martin,8,78,4,44,4,34,11
+LA Rams,Kansas City,11/27/2022,Adrian Hill,8,50,5,25,3,25,8
+Baltimore,Jacksonville,11/27/2022,Land Clark,7,39,3,20,4,19,9
+LA Chargers,Arizona,11/27/2022,Ron Torbert,7,49,4,30,3,19,10
+Green Bay,Philadelphia,11/27/2022,Shawn Smith,7,60,4,35,3,25,9
+Atlanta,Washington,11/27/2022,Brad Rogers,6,48,2,20,4,28,7
+Chicago,N.Y. Jets,11/27/2022,John Hussey,2,15,1,10,1,5,7
+Pittsburgh,Indianapolis,11/28/2022,Bill Vinovich,5,39,3,19,2,20,9
+Buffalo,New England,12/1/2022,Shawn Hochuli,12,109,6,47,6,62,16
+Tennessee,Philadelphia,12/4/2022,Adrian Hill,19,162,7,82,12,80,24
+Pittsburgh,Atlanta,12/4/2022,Ron Torbert,13,78,7,30,6,48,15
+Miami,San Francisco,12/4/2022,Tra Blake,12,113,8,68,4,45,13
+Cleveland,Houston,12/4/2022,Land Clark,11,87,6,56,5,31,15
+Washington,N.Y. Giants,12/4/2022,Brad Allen,11,90,7,56,4,34,13
+Seattle,LA Rams,12/4/2022,Shawn Smith,10,81,6,42,4,39,11
+Kansas City,Cincinnati,12/4/2022,John Hussey,10,100,4,35,6,65,12
+N.Y. Jets,Minnesota,12/4/2022,Clete Blakeman,9,84,6,40,3,44,10
+Indianapolis,Dallas,12/4/2022,Carl Cheffers,9,131,6,88,3,43,11
+Denver,Baltimore,12/4/2022,Alex Kemp,7,63,4,48,3,15,8
+Green Bay,Chicago,12/4/2022,Scott Novak,7,83,2,20,5,63,8
+LA Chargers,Las Vegas,12/4/2022,Craig Wrolstad,7,35,4,20,3,15,8
+Jacksonville,Detroit,12/4/2022,Jerome Boger,6,34,5,24,1,10,6
+New Orleans,Tampa Bay,12/5/2022,Clay Martin,10,123,6,84,4,39,11
+Las Vegas,LA Rams,12/8/2022,Brad Rogers,14,154,7,94,7,60,21
+Jacksonville,Tennessee,12/11/2022,Clay Martin,14,120,9,70,5,50,18
+Cleveland,Cincinnati,12/11/2022,Jerome Boger,13,134,9,98,4,36,19
+N.Y. Jets,Buffalo,12/11/2022,Alex Kemp,12,96,7,61,5,35,15
+Miami,LA Chargers,12/11/2022,Scott Novak,12,90,6,50,6,40,14
+Minnesota,Detroit,12/11/2022,Ron Torbert,10,76,3,25,7,51,10
+Tampa Bay,San Francisco,12/11/2022,Brad Allen,10,77,8,62,2,15,11
+Kansas City,Denver,12/11/2022,Craig Wrolstad,10,108,4,70,6,38,10
+Carolina,Seattle,12/11/2022,Bill Vinovich,9,64,6,29,3,35,11
+Houston,Dallas,12/11/2022,John Hussey,7,35,4,25,3,10,11
+Philadelphia,N.Y. Giants,12/11/2022,Clete Blakeman,7,43,2,9,5,34,9
+Baltimore,Pittsburgh,12/11/2022,Adrian Hill,7,61,5,46,2,15,10
+New England,Arizona,12/12/2022,Shawn Smith,16,128,8,80,8,48,20
+San Francisco,Seattle,12/15/2022,Alex Kemp,15,139,7,60,8,79,19
+Indianapolis,Minnesota,12/17/2022,Tra Blake,20,177,11,103,9,74,20
+Miami,Buffalo,12/17/2022,Bill Vinovich,15,102,8,51,7,51,21
+Baltimore,Cleveland,12/17/2022,Brad Allen,6,57,3,25,3,32,10
+New England,Las Vegas,12/18/2022,Ron Torbert,19,120,6,30,13,90,19
+Kansas City,Houston,12/18/2022,Carl Cheffers,14,135,10,102,4,33,17
+Pittsburgh,Carolina,12/18/2022,Scott Novak,12,121,7,81,5,40,14
+N.Y. Giants,Washington,12/18/2022,John Hussey,11,70,5,30,6,40,11
+Arizona,Denver,12/18/2022,Jerome Boger,11,77,7,46,4,31,11
+Cincinnati,Tampa Bay,12/18/2022,Adrian Hill,11,85,4,27,7,58,12
+Atlanta,New Orleans,12/18/2022,Clete Blakeman,9,76,3,30,6,46,11
+Tennessee,LA Chargers,12/18/2022,Land Clark,9,82,6,62,3,20,13
+Philadelphia,Chicago,12/18/2022,Brad Rogers,8,55,2,25,6,30,11
+Detroit,N.Y. Jets,12/18/2022,Craig Wrolstad,8,72,6,52,2,20,14
+Dallas,Jacksonville,12/18/2022,Shawn Smith,6,55,2,18,4,37,7
+LA Rams,Green Bay,12/19/2022,Shawn Hochuli,12,156,8,76,4,80,16
+Jacksonville,N.Y. Jets,12/22/2022,Brad Allen,12,89,3,25,9,64,14
+Cincinnati,New England,12/24/2022,Craig Wrolstad,18,144,8,62,10,82,19
+Detroit,Carolina,12/24/2022,Shawn Hochuli,14,104,4,30,10,74,17
+Buffalo,Chicago,12/24/2022,Carl Cheffers,11,87,9,72,2,15,11
+Seattle,Kansas City,12/24/2022,Clete Blakeman,11,74,6,35,5,39,13
+Washington,San Francisco,12/24/2022,Jerome Boger,10,76,6,51,4,25,13
+N.Y. Giants,Minnesota,12/24/2022,Adrian Hill,9,77,7,63,2,14,9
+Houston,Tennessee,12/24/2022,Shawn Smith,9,65,4,35,5,30,13
+Atlanta,Baltimore,12/24/2022,Bill Vinovich,6,54,5,48,1,6,7
+New Orleans,Cleveland,12/24/2022,Brad Rogers,6,60,2,15,4,45,7
+Philadelphia,Dallas,12/24/2022,Alex Kemp,6,46,2,10,4,36,10
+Las Vegas,Pittsburgh,12/24/2022,Tra Blake,5,55,2,20,3,35,5
+Green Bay,Miami,12/25/2022,Land Clark,13,102,5,40,8,62,13
+Tampa Bay,Arizona,12/25/2022,John Hussey,11,104,5,30,6,74,13
+Denver,LA Rams,12/25/2022,Ron Torbert,9,61,6,55,3,6,9
+LA Chargers,Indianapolis,12/26/2022,Clay Martin,8,71,6,60,2,11,8
+Dallas,Tennessee,12/29/2022,Shawn Hochuli,13,159,3,35,10,124,15
+Carolina,Tampa Bay,1/1/2023,Brad Rogers,16,109,8,58,8,51,17
+Miami,New England,1/1/2023,Brad Allen,15,110,9,71,6,39,15
+San Francisco,Las Vegas,1/1/2023,Clay Martin,15,120,9,71,6,49,16
+Arizona,Atlanta,1/1/2023,Alex Kemp,13,120,8,50,5,70,14
+New Orleans,Philadelphia,1/1/2023,Jerome Boger,11,69,3,20,8,49,11
+Pittsburgh,Baltimore,1/1/2023,Land Clark,10,73,6,43,4,30,11
+Indianapolis,N.Y. Giants,1/1/2023,Craig Wrolstad,10,80,7,60,3,20,10
+Chicago,Detroit,1/1/2023,Adrian Hill,9,91,3,49,6,42,11
+Jacksonville,Houston,1/1/2023,Scott Novak,9,75,2,30,7,45,10
+Minnesota,Green Bay,1/1/2023,Carl Cheffers,9,65,6,35,3,30,11
+Denver,Kansas City,1/1/2023,Tra Blake,8,54,3,23,5,31,9
+Cleveland,Washington,1/1/2023,Bill Vinovich,8,44,3,20,5,24,11
+N.Y. Jets,Seattle,1/1/2023,Ron Torbert,7,35,2,10,5,25,7
+LA Rams,LA Chargers,1/1/2023,Clete Blakeman,5,41,3,22,2,19,9
+Kansas City,Las Vegas,1/7/2023,Scott Novak,11,90,5,43,6,47,13
+Tennessee,Jacksonville,1/7/2023,Bill Vinovich,10,65,6,40,4,25,11
+Cleveland,Pittsburgh,1/8/2023,Clete Blakeman,13,85,9,65,4,20,14
+N.Y. Giants,Philadelphia,1/8/2023,Carl Cheffers,12,96,8,66,4,30,13
+N.Y. Jets,Miami,1/8/2023,John Hussey,11,101,6,54,5,47,12
+Minnesota,Chicago,1/8/2023,Brad Allen,10,61,8,41,2,20,12
+Detroit,Green Bay,1/8/2023,Brad Rogers,9,110,5,75,4,35,12
+Houston,Indianapolis,1/8/2023,Jerome Boger,9,51,7,41,2,10,9
+Arizona,San Francisco,1/8/2023,Adrian Hill,9,60,7,50,2,10,10
+Baltimore,Cincinnati,1/8/2023,Ron Torbert,8,57,5,22,3,35,10
+Dallas,Washington,1/8/2023,Tra Blake,8,84,6,74,2,10,9
+LA Chargers,Denver,1/8/2023,Shawn Hochuli,8,70,5,34,3,36,9
+LA Rams,Seattle,1/8/2023,Craig Wrolstad,7,55,3,35,4,20,7
+Tampa Bay,Atlanta,1/8/2023,Land Clark,5,48,3,30,2,18,6
+New England,Buffalo,1/8/2023,Clay Martin,4,40,2,20,2,20,6
+Carolina,New Orleans,1/8/2023,Alex Kemp,4,35,2,20,2,15,6

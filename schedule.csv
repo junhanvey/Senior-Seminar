@@ -1,0 +1,544 @@
+Week,Day,Date,Time,Winner/tie,Visitor,Loser/tie,PtsW,PtsL,YdsW,TOW,YdsL,TOL,Home,Away
+18,Sun,1/7/2024,4:25 PM,Dallas Cowboys,@,Washington Commanders,38,10,440,1,180,3,Washington Commanders,Dallas Cowboys
+17,Sun,12/31/2023,1:00 PM,San Francisco 49ers,@,Washington Commanders,27,10,408,0,225,2,Washington Commanders,San Francisco 49ers
+13,Sun,12/3/2023,1:00 PM,Miami Dolphins,@,Washington Commanders,45,15,406,0,245,1,Washington Commanders,Miami Dolphins
+11,Sun,11/19/2023,1:00 PM,New York Giants,@,Washington Commanders,31,19,292,0,404,6,Washington Commanders,New York Giants
+8,Sun,10/29/2023,1:00 PM,Philadelphia Eagles,@,Washington Commanders,38,31,374,2,472,1,Washington Commanders,Philadelphia Eagles
+5,Thu,10/5/2023,8:15 PM,Chicago Bears,@,Washington Commanders,40,20,451,0,388,2,Washington Commanders,Chicago Bears
+3,Sun,9/24/2023,1:00 PM,Buffalo Bills,@,Washington Commanders,37,3,386,1,230,5,Washington Commanders,Buffalo Bills
+17,Sun,1/1/2023,1:00 PM,Cleveland Browns,@,Washington Commanders,24,10,301,0,260,3,Washington Commanders,Cleveland Browns
+15,Sun,12/18/2022,8:15 PM,New York Giants,@,Washington Commanders,20,12,288,0,387,2,Washington Commanders,New York Giants
+9,Sun,11/6/2022,1:00 PM,Minnesota Vikings,@,Washington Commanders,20,17,301,1,263,1,Washington Commanders,Minnesota Vikings
+5,Sun,10/9/2022,1:00 PM,Tennessee Titans,@,Washington Commanders,21,17,241,0,385,1,Washington Commanders,Tennessee Titans
+3,Sun,9/25/2022,1:00 PM,Philadelphia Eagles,@,Washington Commanders,24,8,400,0,240,1,Washington Commanders,Philadelphia Eagles
+16,Sun,12/24/2023,1:00 PM,Seattle Seahawks,@,Tennessee Titans,20,17,273,0,287,0,Tennessee Titans,Seattle Seahawks
+15,Sun,12/17/2023,1:00 PM,Houston Texans,@,Tennessee Titans,19,16,340,1,204,1,Tennessee Titans,Houston Texans
+13,Sun,12/3/2023,1:00 PM,Indianapolis Colts,@,Tennessee Titans,31,28,355,2,381,2,Tennessee Titans,Indianapolis Colts
+6,Sun,10/15/2023,9:30 AM,Baltimore Ravens,@,Tennessee Titans,24,16,360,1,233,2,Tennessee Titans,Baltimore Ravens
+17,Thu,12/29/2022,8:15 PM,Dallas Cowboys,@,Tennessee Titans,27,13,361,3,317,2,Tennessee Titans,Dallas Cowboys
+16,Sat,12/24/2022,1:00 PM,Houston Texans,@,Tennessee Titans,19,14,285,1,272,3,Tennessee Titans,Houston Texans
+14,Sun,12/11/2022,1:00 PM,Jacksonville Jaguars,@,Tennessee Titans,36,22,428,0,364,4,Tennessee Titans,Jacksonville Jaguars
+12,Sun,11/27/2022,1:00 PM,Cincinnati Bengals,@,Tennessee Titans,20,16,374,0,344,0,Tennessee Titans,Cincinnati Bengals
+1,Sun,9/11/2022,4:25 PM,New York Giants,@,Tennessee Titans,21,20,394,2,359,1,Tennessee Titans,New York Giants
+17,Sun,12/31/2023,1:00 PM,New Orleans Saints,@,Tampa Bay Buccaneers,23,13,310,0,349,4,Tampa Bay Buccaneers,New Orleans Saints
+7,Sun,10/22/2023,1:00 PM,Atlanta Falcons,@,Tampa Bay Buccaneers,16,13,401,3,329,2,Tampa Bay Buccaneers,Atlanta Falcons
+6,Sun,10/15/2023,4:25 PM,Detroit Lions,@,Tampa Bay Buccaneers,20,6,380,0,251,1,Tampa Bay Buccaneers,Detroit Lions
+3,Mon,9/25/2023,7:15 PM,Philadelphia Eagles,@,Tampa Bay Buccaneers,25,11,472,2,174,2,Tampa Bay Buccaneers,Philadelphia Eagles
+15,Sun,12/18/2022,4:25 PM,Cincinnati Bengals,@,Tampa Bay Buccaneers,34,23,237,1,396,4,Tampa Bay Buccaneers,Cincinnati Bengals
+8,Thu,10/27/2022,8:15 PM,Baltimore Ravens,@,Tampa Bay Buccaneers,27,22,453,0,349,1,Tampa Bay Buccaneers,Baltimore Ravens
+4,Sun,10/2/2022,8:20 PM,Kansas City Chiefs,@,Tampa Bay Buccaneers,41,31,417,1,376,2,Tampa Bay Buccaneers,Kansas City Chiefs
+3,Sun,9/25/2022,4:25 PM,Green Bay Packers,@,Tampa Bay Buccaneers,14,12,315,2,285,2,Tampa Bay Buccaneers,Green Bay Packers
+17,Sun,12/31/2023,4:05 PM,Pittsburgh Steelers,@,Seattle Seahawks,30,23,468,0,369,1,Seattle Seahawks,Pittsburgh Steelers
+12,Thu,11/23/2023,8:20 PM,San Francisco 49ers,@,Seattle Seahawks,31,13,377,1,220,2,Seattle Seahawks,San Francisco 49ers
+1,Sun,9/10/2023,4:25 PM,Los Angeles Rams,@,Seattle Seahawks,30,13,426,0,180,0,Seattle Seahawks,Los Angeles Rams
+15,Thu,12/15/2022,8:15 PM,San Francisco 49ers,@,Seattle Seahawks,21,13,381,0,277,1,Seattle Seahawks,San Francisco 49ers
+14,Sun,12/11/2022,4:25 PM,Carolina Panthers,@,Seattle Seahawks,30,24,328,0,287,2,Seattle Seahawks,Carolina Panthers
+12,Sun,11/27/2022,4:05 PM,Las Vegas Raiders,@,Seattle Seahawks,40,34,576,2,372,2,Seattle Seahawks,Las Vegas Raiders
+3,Sun,9/25/2022,4:25 PM,Atlanta Falcons,@,Seattle Seahawks,27,23,386,2,420,1,Seattle Seahawks,Atlanta Falcons
+18,Sun,1/7/2024,4:25 PM,Los Angeles Rams,@,San Francisco 49ers,21,20,258,1,300,1,San Francisco 49ers,Los Angeles Rams
+16,Mon,12/25/2023,8:15 PM,Baltimore Ravens,@,San Francisco 49ers,33,19,343,0,429,5,San Francisco 49ers,Baltimore Ravens
+8,Sun,10/29/2023,4:25 PM,Cincinnati Bengals,@,San Francisco 49ers,31,17,400,1,460,3,San Francisco 49ers,Cincinnati Bengals
+7,Sun,10/23/2022,4:25 PM,Kansas City Chiefs,@,San Francisco 49ers,44,23,529,2,444,3,San Francisco 49ers,Kansas City Chiefs
+14,Thu,12/7/2023,8:15 PM,New England Patriots,@,Pittsburgh Steelers,21,18,303,1,264,1,Pittsburgh Steelers,New England Patriots
+13,Sun,12/3/2023,1:00 PM,Arizona Cardinals,@,Pittsburgh Steelers,24,10,282,0,317,1,Pittsburgh Steelers,Arizona Cardinals
+8,Sun,10/29/2023,1:00 PM,Jacksonville Jaguars,@,Pittsburgh Steelers,20,10,377,3,261,2,Pittsburgh Steelers,Jacksonville Jaguars
+1,Sun,9/10/2023,1:00 PM,San Francisco 49ers,@,Pittsburgh Steelers,30,7,391,1,239,2,Pittsburgh Steelers,San Francisco 49ers
+14,Sun,12/11/2022,1:00 PM,Baltimore Ravens,@,Pittsburgh Steelers,16,14,309,0,329,3,Pittsburgh Steelers,Baltimore Ravens
+11,Sun,11/20/2022,4:25 PM,Cincinnati Bengals,@,Pittsburgh Steelers,37,30,408,2,351,0,Pittsburgh Steelers,Cincinnati Bengals
+4,Sun,10/2/2022,1:00 PM,New York Jets,@,Pittsburgh Steelers,24,20,348,2,297,4,Pittsburgh Steelers,New York Jets
+2,Sun,9/18/2022,1:00 PM,New England Patriots,@,Pittsburgh Steelers,17,14,376,1,243,2,Pittsburgh Steelers,New England Patriots
+17,Sun,12/31/2023,1:00 PM,Arizona Cardinals,@,Philadelphia Eagles,35,31,449,1,275,1,Philadelphia Eagles,Arizona Cardinals
+13,Sun,12/3/2023,4:25 PM,San Francisco 49ers,@,Philadelphia Eagles,42,19,456,0,333,0,Philadelphia Eagles,San Francisco 49ers
+17,Sun,1/1/2023,1:00 PM,New Orleans Saints,@,Philadelphia Eagles,20,10,313,1,313,1,Philadelphia Eagles,New Orleans Saints
+10,Mon,11/14/2022,8:15 PM,Washington Commanders,@,Philadelphia Eagles,32,21,330,2,264,4,Philadelphia Eagles,Washington Commanders
+13,Sun,12/3/2023,1:00 PM,Atlanta Falcons,@,New York Jets,13,8,194,0,259,3,New York Jets,Atlanta Falcons
+12,Fri,11/24/2023,3:00 PM,Miami Dolphins,@,New York Jets,34,13,395,3,159,2,New York Jets,Miami Dolphins
+9,Mon,11/6/2023,8:15 PM,Los Angeles Chargers,@,New York Jets,27,6,191,0,270,3,New York Jets,Los Angeles Chargers
+4,Sun,10/1/2023,8:20 PM,Kansas City Chiefs,@,New York Jets,23,20,401,2,336,1,New York Jets,Kansas City Chiefs
+3,Sun,9/24/2023,1:00 PM,New England Patriots,@,New York Jets,15,10,358,0,171,0,New York Jets,New England Patriots
+16,Thu,12/22/2022,8:15 PM,Jacksonville Jaguars,@,New York Jets,19,3,365,1,227,2,New York Jets,Jacksonville Jaguars
+15,Sun,12/18/2022,1:00 PM,Detroit Lions,@,New York Jets,20,17,359,0,337,1,New York Jets,Detroit Lions
+8,Sun,10/30/2022,1:00 PM,New England Patriots,@,New York Jets,22,17,288,1,387,3,New York Jets,New England Patriots
+3,Sun,9/25/2022,1:00 PM,Cincinnati Bengals,@,New York Jets,27,12,330,1,328,4,New York Jets,Cincinnati Bengals
+1,Sun,9/11/2022,1:00 PM,Baltimore Ravens,@,New York Jets,24,9,274,1,380,2,New York Jets,Baltimore Ravens
+17,Sun,12/31/2023,1:00 PM,Los Angeles Rams,@,New York Giants,26,25,391,3,389,1,New York Giants,Los Angeles Rams
+8,Sun,10/29/2023,1:00 PM,New York Jets,@,New York Giants,13,10,251,2,194,0,New York Giants,New York Jets
+4,Mon,10/2/2023,8:15 PM,Seattle Seahawks,@,New York Giants,24,3,281,0,248,3,New York Giants,Seattle Seahawks
+1,Sun,9/10/2023,8:20 PM,Dallas Cowboys,@,New York Giants,40,0,265,0,171,3,New York Giants,Dallas Cowboys
+14,Sun,12/11/2022,1:00 PM,Philadelphia Eagles,@,New York Giants,48,22,437,0,304,1,New York Giants,Philadelphia Eagles
+13,Sun,12/4/2022,1:00 PM,Washington Commanders,@,New York Giants,20,20,411,1,316,1,New York Giants,Washington Commanders
+11,Sun,11/20/2022,1:00 PM,Detroit Lions,@,New York Giants,31,18,325,0,413,3,New York Giants,Detroit Lions
+3,Mon,9/26/2022,8:15 PM,Dallas Cowboys,@,New York Giants,23,16,391,0,336,1,New York Giants,Dallas Cowboys
+13,Sun,12/3/2023,1:00 PM,Detroit Lions,@,New Orleans Saints,33,28,347,0,362,2,New Orleans Saints,Detroit Lions
+7,Thu,10/19/2023,8:15 PM,Jacksonville Jaguars,@,New Orleans Saints,31,24,330,2,407,1,New Orleans Saints,Jacksonville Jaguars
+4,Sun,10/1/2023,1:00 PM,Tampa Bay Buccaneers,@,New Orleans Saints,26,9,353,1,197,3,New Orleans Saints,Tampa Bay Buccaneers
+18,Sun,1/8/2023,1:00 PM,Carolina Panthers,@,New Orleans Saints,10,7,203,2,304,1,New Orleans Saints,Carolina Panthers
+9,Mon,11/7/2022,8:15 PM,Baltimore Ravens,@,New Orleans Saints,27,13,319,0,243,1,New Orleans Saints,Baltimore Ravens
+6,Sun,10/16/2022,1:00 PM,Cincinnati Bengals,@,New Orleans Saints,30,26,348,1,399,0,New Orleans Saints,Cincinnati Bengals
+4,Sun,10/2/2022,9:30 AM,Minnesota Vikings,@,New Orleans Saints,28,25,344,1,338,2,New Orleans Saints,Minnesota Vikings
+2,Sun,9/18/2022,1:00 PM,Tampa Bay Buccaneers,@,New Orleans Saints,20,10,260,1,308,5,New Orleans Saints,Tampa Bay Buccaneers
+18,Sun,1/7/2024,1:00 PM,New York Jets,@,New England Patriots,17,3,254,1,119,2,New England Patriots,New York Jets
+15,Mon,12/17/2023,1:00 PM,Kansas City Chiefs,@,New England Patriots,27,17,326,2,206,1,New England Patriots,Kansas City Chiefs
+13,Sun,12/3/2023,1:00 PM,Los Angeles Chargers,@,New England Patriots,6,0,241,0,257,1,New England Patriots,Los Angeles Chargers
+10,Sun,11/12/2023,9:30 AM,Indianapolis Colts,@,New England Patriots,10,6,264,1,340,2,New England Patriots,Indianapolis Colts
+9,Sun,11/5/2023,1:00 PM,Washington Commanders,@,New England Patriots,20,17,432,2,327,1,New England Patriots,Washington Commanders
+5,Sun,10/8/2023,1:00 PM,New Orleans Saints,@,New England Patriots,34,0,304,0,156,3,New England Patriots,New Orleans Saints
+2,Sun,9/17/2023,8:20 PM,Miami Dolphins,@,New England Patriots,24,17,389,1,288,2,New England Patriots,Miami Dolphins
+1,Sun,9/10/2023,4:25 PM,Philadelphia Eagles,@,New England Patriots,25,20,251,1,382,2,New England Patriots,Philadelphia Eagles
+16,Sat,12/24/2022,1:00 PM,Cincinnati Bengals,@,New England Patriots,22,18,442,3,285,1,New England Patriots,Cincinnati Bengals
+13,Thu,12/1/2022,8:15 PM,Buffalo Bills,@,New England Patriots,24,10,355,1,242,0,New England Patriots,Buffalo Bills
+7,Mon,10/24/2022,8:15 PM,Chicago Bears,@,New England Patriots,33,14,390,1,260,4,New England Patriots,Chicago Bears
+3,Sun,9/25/2022,1:00 PM,Baltimore Ravens,@,New England Patriots,37,26,394,2,447,4,New England Patriots,Baltimore Ravens
+17,Sun,12/31/2023,8:20 PM,Green Bay Packers,@,Minnesota Vikings,33,10,470,1,211,2,Minnesota Vikings,Green Bay Packers
+16,Sun,12/24/2023,1:00 PM,Detroit Lions,@,Minnesota Vikings,30,24,389,1,390,4,Minnesota Vikings,Detroit Lions
+12,Mon,11/27/2023,8:15 PM,Chicago Bears,@,Minnesota Vikings,12,10,317,2,242,4,Minnesota Vikings,Chicago Bears
+5,Sun,10/8/2023,4:25 PM,Kansas City Chiefs,@,Minnesota Vikings,27,20,333,0,329,1,Minnesota Vikings,Kansas City Chiefs
+3,Sun,9/24/2023,1:00 PM,Los Angeles Chargers,@,Minnesota Vikings,28,24,475,1,475,2,Minnesota Vikings,Los Angeles Chargers
+1,Sun,9/10/2023,1:00 PM,Tampa Bay Buccaneers,@,Minnesota Vikings,20,17,242,0,369,3,Minnesota Vikings,Tampa Bay Buccaneers
+11,Sun,11/20/2022,4:25 PM,Dallas Cowboys,@,Minnesota Vikings,40,3,458,0,183,1,Minnesota Vikings,Dallas Cowboys
+18,Sun,1/7/2024,8:20 PM,Buffalo Bills,@,Miami Dolphins,21,14,473,3,275,2,Miami Dolphins,Buffalo Bills
+14,Mon,12/11/2023,8:15 PM,Tennessee Titans,@,Miami Dolphins,28,27,403,3,366,1,Miami Dolphins,Tennessee Titans
+16,Sun,12/25/2022,1:00 PM,Green Bay Packers,@,Miami Dolphins,26,20,301,1,376,4,Miami Dolphins,Green Bay Packers
+6,Sun,10/16/2022,1:00 PM,Minnesota Vikings,@,Miami Dolphins,24,16,234,0,458,3,Miami Dolphins,Minnesota Vikings
+7,Sun,10/22/2023,4:05 PM,Pittsburgh Steelers,@,Los Angeles Rams,24,17,300,0,354,1,Los Angeles Rams,Pittsburgh Steelers
+5,Sun,10/8/2023,4:05 PM,Philadelphia Eagles,@,Los Angeles Rams,23,14,454,1,249,0,Los Angeles Rams,Philadelphia Eagles
+2,Sun,9/17/2023,4:05 PM,San Francisco 49ers,@,Los Angeles Rams,30,23,365,0,386,2,Los Angeles Rams,San Francisco 49ers
+13,Sun,12/4/2022,4:05 PM,Seattle Seahawks,@,Los Angeles Rams,27,23,438,2,319,2,Los Angeles Rams,Seattle Seahawks
+10,Sun,11/13/2022,4:25 PM,Arizona Cardinals,@,Los Angeles Rams,27,17,298,0,256,2,Los Angeles Rams,Arizona Cardinals
+8,Sun,10/30/2022,4:25 PM,San Francisco 49ers,@,Los Angeles Rams,31,14,368,0,223,0,Los Angeles Rams,San Francisco 49ers
+5,Sun,10/9/2022,4:25 PM,Dallas Cowboys,@,Los Angeles Rams,22,10,239,0,323,3,Los Angeles Rams,Dallas Cowboys
+1,Thu,9/8/2022,8:20 PM,Buffalo Bills,@,Los Angeles Rams,31,10,413,4,243,3,Los Angeles Rams,Buffalo Bills
+18,Sun,1/7/2024,4:25 PM,Kansas City Chiefs,@,Los Angeles Chargers,13,12,268,1,353,1,Los Angeles Chargers,Kansas City Chiefs
+16,Sat,12/23/2023,8:00 PM,Buffalo Bills,@,Los Angeles Chargers,24,22,335,3,273,0,Los Angeles Chargers,Buffalo Bills
+14,Sun,12/10/2023,4:25 PM,Denver Broncos,@,Los Angeles Chargers,24,7,322,1,283,2,Los Angeles Chargers,Denver Broncos
+12,Sun,11/26/2023,8:20 PM,Baltimore Ravens,@,Los Angeles Chargers,20,10,361,0,279,4,Los Angeles Chargers,Baltimore Ravens
+10,Sun,11/12/2023,4:05 PM,Detroit Lions,@,Los Angeles Chargers,41,38,533,0,421,1,Los Angeles Chargers,Detroit Lions
+6,Mon,10/16/2023,8:15 PM,Dallas Cowboys,@,Los Angeles Chargers,20,17,342,1,272,1,Los Angeles Chargers,Dallas Cowboys
+1,Sun,9/10/2023,4:25 PM,Miami Dolphins,@,Los Angeles Chargers,36,34,536,2,433,0,Los Angeles Chargers,Miami Dolphins
+11,Sun,11/20/2022,8:20 PM,Kansas City Chiefs,@,Los Angeles Chargers,30,27,485,1,365,2,Los Angeles Chargers,Kansas City Chiefs
+7,Sun,10/23/2022,4:25 PM,Seattle Seahawks,@,Los Angeles Chargers,37,23,404,2,329,2,Los Angeles Chargers,Seattle Seahawks
+3,Sun,9/25/2022,4:05 PM,Jacksonville Jaguars,@,Los Angeles Chargers,38,10,413,0,312,2,Los Angeles Chargers,Jacksonville Jaguars
+14,Sun,12/10/2023,4:05 PM,Minnesota Vikings,@,Las Vegas Raiders,3,0,231,0,202,3,Las Vegas Raiders,Minnesota Vikings
+12,Sun,11/26/2023,4:25 PM,Kansas City Chiefs,@,Las Vegas Raiders,31,17,360,0,358,0,Las Vegas Raiders,Kansas City Chiefs
+3,Sun,9/24/2023,8:20 PM,Pittsburgh Steelers,@,Las Vegas Raiders,23,18,333,0,362,3,Las Vegas Raiders,Pittsburgh Steelers
+18,Sat,1/7/2023,4:30 PM,Kansas City Chiefs,@,Las Vegas Raiders,31,13,349,0,279,2,Las Vegas Raiders,Kansas City Chiefs
+17,Sun,1/1/2023,4:05 PM,San Francisco 49ers,@,Las Vegas Raiders,37,34,454,1,500,2,Las Vegas Raiders,San Francisco 49ers
+10,Sun,11/13/2022,4:05 PM,Indianapolis Colts,@,Las Vegas Raiders,25,20,415,1,309,0,Las Vegas Raiders,Indianapolis Colts
+2,Sun,9/18/2022,4:25 PM,Arizona Cardinals,@,Las Vegas Raiders,29,23,413,1,324,1,Las Vegas Raiders,Arizona Cardinals
+16,Mon,12/25/2023,1:00 PM,Las Vegas Raiders,@,Kansas City Chiefs,20,14,205,0,308,2,Kansas City Chiefs,Las Vegas Raiders
+14,Sun,12/10/2023,4:25 PM,Buffalo Bills,@,Kansas City Chiefs,20,17,327,1,346,2,Kansas City Chiefs,Buffalo Bills
+11,Mon,11/20/2023,8:15 PM,Philadelphia Eagles,@,Kansas City Chiefs,21,17,238,1,336,2,Kansas City Chiefs,Philadelphia Eagles
+1,Thu,9/7/2023,8:20 PM,Detroit Lions,@,Kansas City Chiefs,21,20,368,1,316,1,Kansas City Chiefs,Detroit Lions
+6,Sun,10/16/2022,4:25 PM,Buffalo Bills,@,Kansas City Chiefs,24,20,443,1,387,2,Kansas City Chiefs,Buffalo Bills
+15,Sun,12/17/2023,8:20 PM,Baltimore Ravens,@,Jacksonville Jaguars,23,7,396,1,333,2,Jacksonville Jaguars,Baltimore Ravens
+13,Mon,12/4/2023,8:15 PM,Cincinnati Bengals,@,Jacksonville Jaguars,34,31,491,1,376,0,Jacksonville Jaguars,Cincinnati Bengals
+10,Sun,11/12/2023,1:00 PM,San Francisco 49ers,@,Jacksonville Jaguars,34,3,437,0,221,4,Jacksonville Jaguars,San Francisco 49ers
+3,Sun,9/24/2023,1:00 PM,Houston Texans,@,Jacksonville Jaguars,37,17,366,0,404,2,Jacksonville Jaguars,Houston Texans
+2,Sun,9/17/2023,1:00 PM,Kansas City Chiefs,@,Jacksonville Jaguars,17,9,399,3,271,1,Jacksonville Jaguars,Kansas City Chiefs
+8,Sun,10/30/2022,9:30 AM,Denver Broncos,@,Jacksonville Jaguars,21,17,331,1,305,2,Jacksonville Jaguars,Denver Broncos
+7,Sun,10/23/2022,1:00 PM,New York Giants,@,Jacksonville Jaguars,23,17,436,0,452,1,Jacksonville Jaguars,New York Giants
+5,Sun,10/9/2022,1:00 PM,Houston Texans,@,Jacksonville Jaguars,13,6,248,0,422,2,Jacksonville Jaguars,Houston Texans
+18,Sat,1/6/2024,8:15 PM,Houston Texans,@,Indianapolis Colts,23,19,306,0,360,1,Indianapolis Colts,Houston Texans
+8,Sun,10/29/2023,1:00 PM,New Orleans Saints,@,Indianapolis Colts,38,27,511,1,371,1,Indianapolis Colts,New Orleans Saints
+7,Sun,10/22/2023,1:00 PM,Cleveland Browns,@,Indianapolis Colts,39,38,316,2,456,4,Indianapolis Colts,Cleveland Browns
+4,Sun,10/1/2023,1:00 PM,Los Angeles Rams,@,Indianapolis Colts,29,23,467,1,329,1,Indianapolis Colts,Los Angeles Rams
+1,Sun,9/10/2023,1:00 PM,Jacksonville Jaguars,@,Indianapolis Colts,31,21,342,2,280,3,Indianapolis Colts,Jacksonville Jaguars
+18,Sun,1/8/2023,1:00 PM,Houston Texans,@,Indianapolis Colts,32,31,360,3,398,3,Indianapolis Colts,Houston Texans
+16,Mon,12/26/2022,8:15 PM,Los Angeles Chargers,@,Indianapolis Colts,20,3,314,2,173,3,Indianapolis Colts,Los Angeles Chargers
+12,Mon,11/28/2022,8:15 PM,Pittsburgh Steelers,@,Indianapolis Colts,24,17,323,0,290,2,Indianapolis Colts,Pittsburgh Steelers
+11,Sun,11/20/2022,1:00 PM,Philadelphia Eagles,@,Indianapolis Colts,17,16,314,2,284,1,Indianapolis Colts,Philadelphia Eagles
+8,Sun,10/30/2022,4:25 PM,Washington Commanders,@,Indianapolis Colts,17,16,362,1,324,2,Indianapolis Colts,Washington Commanders
+4,Sun,10/2/2022,1:00 PM,Tennessee Titans,@,Indianapolis Colts,24,17,243,0,365,3,Indianapolis Colts,Tennessee Titans
+16,Sun,12/24/2023,1:00 PM,Cleveland Browns,@,Houston Texans,36,22,418,2,250,2,Houston Texans,Cleveland Browns
+12,Sun,11/26/2023,1:00 PM,Jacksonville Jaguars,@,Houston Texans,24,21,445,1,352,0,Houston Texans,Jacksonville Jaguars
+2,Sun,9/17/2023,1:00 PM,Indianapolis Colts,@,Houston Texans,31,20,353,0,389,1,Houston Texans,Indianapolis Colts
+17,Sun,1/1/2023,1:00 PM,Jacksonville Jaguars,@,Houston Texans,31,3,337,2,277,1,Houston Texans,Jacksonville Jaguars
+15,Sun,12/18/2022,1:00 PM,Kansas City Chiefs,@,Houston Texans,30,24,502,2,219,1,Houston Texans,Kansas City Chiefs
+13,Sun,12/4/2022,1:00 PM,Cleveland Browns,@,Houston Texans,27,14,304,2,283,4,Houston Texans,Cleveland Browns
+11,Sun,11/20/2022,1:00 PM,Washington Commanders,@,Houston Texans,23,10,344,0,148,2,Houston Texans,Washington Commanders
+9,Thu,11/3/2022,8:15 PM,Philadelphia Eagles,@,Houston Texans,29,17,360,1,303,2,Houston Texans,Philadelphia Eagles
+8,Sun,10/30/2022,4:05 PM,Tennessee Titans,@,Houston Texans,17,10,354,2,161,1,Houston Texans,Tennessee Titans
+4,Sun,10/2/2022,1:00 PM,Los Angeles Chargers,@,Houston Texans,34,24,419,1,346,2,Houston Texans,Los Angeles Chargers
+15,Sun,12/17/2023,1:00 PM,Tampa Bay Buccaneers,@,Green Bay Packers,34,20,452,1,321,1,Green Bay Packers,Tampa Bay Buccaneers
+8,Sun,10/29/2023,1:00 PM,Minnesota Vikings,@,Green Bay Packers,24,10,346,1,270,1,Green Bay Packers,Minnesota Vikings
+4,Thu,9/28/2023,8:15 PM,Detroit Lions,@,Green Bay Packers,34,20,401,1,230,2,Green Bay Packers,Detroit Lions
+18,Sun,1/8/2023,8:20 PM,Detroit Lions,@,Green Bay Packers,20,16,323,0,291,2,Green Bay Packers,Detroit Lions
+11,Thu,11/17/2022,8:15 PM,Tennessee Titans,@,Green Bay Packers,27,17,408,1,271,0,Green Bay Packers,Tennessee Titans
+6,Sun,10/16/2022,1:00 PM,New York Jets,@,Green Bay Packers,27,10,278,0,278,1,Green Bay Packers,New York Jets
+5,Sun,10/9/2022,9:30 AM,New York Giants,@,Green Bay Packers,27,22,338,0,301,0,Green Bay Packers,New York Giants
+12,Thu,11/23/2023,12:30 PM,Green Bay Packers,@,Detroit Lions,29,22,377,0,464,3,Detroit Lions,Green Bay Packers
+2,Sun,9/17/2023,1:00 PM,Seattle Seahawks,@,Detroit Lions,37,31,393,0,418,3,Detroit Lions,Seattle Seahawks
+12,Thu,11/24/2022,12:30 PM,Buffalo Bills,@,Detroit Lions,28,25,401,1,326,2,Detroit Lions,Buffalo Bills
+8,Sun,10/30/2022,1:00 PM,Miami Dolphins,@,Detroit Lions,31,27,476,1,393,0,Detroit Lions,Miami Dolphins
+4,Sun,10/2/2022,1:00 PM,Seattle Seahawks,@,Detroit Lions,48,45,555,1,520,2,Detroit Lions,Seattle Seahawks
+1,Sun,9/11/2022,1:00 PM,Philadelphia Eagles,@,Detroit Lions,38,35,455,0,386,1,Detroit Lions,Philadelphia Eagles
+16,Sun,12/24/2023,8:15 PM,New England Patriots,@,Denver Broncos,26,23,289,1,276,2,Denver Broncos,New England Patriots
+5,Sun,10/8/2023,4:25 PM,New York Jets,@,Denver Broncos,31,21,407,2,308,3,Denver Broncos,New York Jets
+2,Sun,9/17/2023,4:25 PM,Washington Commanders,@,Denver Broncos,35,33,388,0,399,2,Denver Broncos,Washington Commanders
+1,Sun,9/10/2023,4:25 PM,Las Vegas Raiders,@,Denver Broncos,17,16,261,1,260,0,Denver Broncos,Las Vegas Raiders
+14,Sun,12/11/2022,4:20 PM,Kansas City Chiefs,@,Denver Broncos,34,28,431,3,320,2,Denver Broncos,Kansas City Chiefs
+11,Sun,11/20/2022,4:05 PM,Las Vegas Raiders,@,Denver Broncos,22,16,407,0,320,0,Denver Broncos,Las Vegas Raiders
+7,Sun,10/23/2022,4:05 PM,New York Jets,@,Denver Broncos,16,9,260,0,324,1,Denver Broncos,New York Jets
+5,Thu,10/6/2022,8:15 PM,Indianapolis Colts,@,Denver Broncos,12,9,306,2,375,2,Denver Broncos,Indianapolis Colts
+1,Sun,9/11/2022,8:20 PM,Tampa Bay Buccaneers,@,Dallas Cowboys,19,3,347,1,244,1,Dallas Cowboys,Tampa Bay Buccaneers
+4,Sun,10/1/2023,1:00 PM,Baltimore Ravens,@,Cleveland Browns,28,3,296,1,166,3,Cleveland Browns,Baltimore Ravens
+16,Sat,12/24/2022,1:00 PM,New Orleans Saints,@,Cleveland Browns,17,10,244,1,249,1,Cleveland Browns,New Orleans Saints
+6,Sun,10/16/2022,1:00 PM,New England Patriots,@,Cleveland Browns,38,15,399,1,328,4,Cleveland Browns,New England Patriots
+5,Sun,10/9/2022,1:00 PM,Los Angeles Chargers,@,Cleveland Browns,30,28,465,0,443,1,Cleveland Browns,Los Angeles Chargers
+2,Sun,9/18/2022,1:00 PM,New York Jets,@,Cleveland Browns,31,30,402,1,405,1,Cleveland Browns,New York Jets
+12,Sun,11/26/2023,1:00 PM,Pittsburgh Steelers,@,Cincinnati Bengals,16,10,421,1,222,1,Cincinnati Bengals,Pittsburgh Steelers
+10,Sun,11/12/2023,1:00 PM,Houston Texans,@,Cincinnati Bengals,30,27,544,3,380,2,Cincinnati Bengals,Houston Texans
+2,Sun,9/17/2023,1:00 PM,Baltimore Ravens,@,Cincinnati Bengals,27,24,415,0,282,1,Cincinnati Bengals,Baltimore Ravens
+1,Sun,9/11/2022,1:00 PM,Pittsburgh Steelers,@,Cincinnati Bengals,23,20,267,0,432,5,Cincinnati Bengals,Pittsburgh Steelers
+6,Sun,10/15/2023,1:00 PM,Minnesota Vikings,@,Chicago Bears,19,13,220,1,275,3,Chicago Bears,Minnesota Vikings
+4,Sun,10/1/2023,1:00 PM,Denver Broncos,@,Chicago Bears,31,28,311,0,471,2,Chicago Bears,Denver Broncos
+1,Sun,9/10/2023,4:25 PM,Green Bay Packers,@,Chicago Bears,38,20,329,0,311,2,Chicago Bears,Green Bay Packers
+18,Sun,1/8/2023,1:00 PM,Minnesota Vikings,@,Chicago Bears,29,13,482,2,259,2,Chicago Bears,Minnesota Vikings
+16,Sat,12/24/2022,1:00 PM,Buffalo Bills,@,Chicago Bears,35,13,426,3,209,2,Chicago Bears,Buffalo Bills
+15,Sun,12/18/2022,1:00 PM,Philadelphia Eagles,@,Chicago Bears,25,20,421,3,248,1,Chicago Bears,Philadelphia Eagles
+13,Sun,12/4/2022,1:00 PM,Green Bay Packers,@,Chicago Bears,28,19,357,0,409,3,Chicago Bears,Green Bay Packers
+10,Sun,11/13/2022,1:00 PM,Detroit Lions,@,Chicago Bears,31,30,323,0,408,1,Chicago Bears,Detroit Lions
+9,Sun,11/6/2022,1:00 PM,Miami Dolphins,@,Chicago Bears,35,32,379,0,368,0,Chicago Bears,Miami Dolphins
+6,Thu,10/13/2022,8:15 PM,Washington Commanders,@,Chicago Bears,12,7,214,0,391,2,Chicago Bears,Washington Commanders
+18,Sun,1/7/2024,1:00 PM,Tampa Bay Buccaneers,@,Carolina Panthers,9,0,228,0,199,2,Carolina Panthers,Tampa Bay Buccaneers
+16,Sun,12/24/2023,1:00 PM,Green Bay Packers,@,Carolina Panthers,33,30,369,0,394,0,Carolina Panthers,Green Bay Packers
+11,Sun,11/19/2023,1:00 PM,Dallas Cowboys,@,Carolina Panthers,33,10,311,0,187,2,Carolina Panthers,Dallas Cowboys
+9,Sun,11/5/2023,4:05 PM,Indianapolis Colts,@,Carolina Panthers,27,13,198,1,275,3,Carolina Panthers,Indianapolis Colts
+4,Sun,10/1/2023,1:00 PM,Minnesota Vikings,@,Carolina Panthers,21,13,265,2,232,1,Carolina Panthers,Minnesota Vikings
+2,Mon,9/18/2023,7:15 PM,New Orleans Saints,@,Carolina Panthers,20,17,341,1,239,1,Carolina Panthers,New Orleans Saints
+15,Sun,12/18/2022,1:00 PM,Pittsburgh Steelers,@,Carolina Panthers,24,16,325,0,209,0,Carolina Panthers,Pittsburgh Steelers
+5,Sun,10/9/2022,4:05 PM,San Francisco 49ers,@,Carolina Panthers,37,15,397,1,308,1,Carolina Panthers,San Francisco 49ers
+4,Sun,10/2/2022,4:05 PM,Arizona Cardinals,@,Carolina Panthers,26,16,338,1,220,3,Carolina Panthers,Arizona Cardinals
+1,Sun,9/11/2022,1:00 PM,Cleveland Browns,@,Carolina Panthers,26,24,355,0,261,1,Carolina Panthers,Cleveland Browns
+10,Mon,11/13/2023,8:15 PM,Denver Broncos,@,Buffalo Bills,24,22,300,1,369,4,Buffalo Bills,Denver Broncos
+5,Sun,10/8/2023,9:30 AM,Jacksonville Jaguars,@,Buffalo Bills,25,20,474,2,388,2,Buffalo Bills,Jacksonville Jaguars
+10,Sun,11/13/2022,1:00 PM,Minnesota Vikings,@,Buffalo Bills,33,30,481,2,486,4,Buffalo Bills,Minnesota Vikings
+18,Sat,1/6/2024,4:30 PM,Pittsburgh Steelers,@,Baltimore Ravens,17,10,289,2,224,2,Baltimore Ravens,Pittsburgh Steelers
+10,Sun,11/12/2023,1:00 PM,Cleveland Browns,@,Baltimore Ravens,33,31,373,2,306,2,Baltimore Ravens,Cleveland Browns
+3,Sun,9/24/2023,1:00 PM,Indianapolis Colts,@,Baltimore Ravens,22,19,327,0,364,2,Baltimore Ravens,Indianapolis Colts
+17,Sun,1/1/2023,8:20 PM,Pittsburgh Steelers,@,Baltimore Ravens,16,13,351,0,240,1,Baltimore Ravens,Pittsburgh Steelers
+4,Sun,10/2/2022,1:00 PM,Buffalo Bills,@,Baltimore Ravens,23,20,326,2,296,2,Baltimore Ravens,Buffalo Bills
+2,Sun,9/18/2022,1:00 PM,Miami Dolphins,@,Baltimore Ravens,42,38,547,2,473,0,Baltimore Ravens,Miami Dolphins
+14,Sun,12/10/2023,1:00 PM,Tampa Bay Buccaneers,@,Atlanta Falcons,29,25,290,0,434,1,Atlanta Falcons,Tampa Bay Buccaneers
+9,Sun,11/5/2023,1:00 PM,Minnesota Vikings,@,Atlanta Falcons,31,28,363,2,370,2,Atlanta Falcons,Minnesota Vikings
+6,Sun,10/15/2023,1:00 PM,Washington Commanders,@,Atlanta Falcons,24,16,193,0,402,3,Atlanta Falcons,Washington Commanders
+13,Sun,12/4/2022,1:00 PM,Pittsburgh Steelers,@,Atlanta Falcons,19,16,351,0,306,1,Atlanta Falcons,Pittsburgh Steelers
+9,Sun,11/6/2022,1:00 PM,Los Angeles Chargers,@,Atlanta Falcons,20,17,336,2,315,2,Atlanta Falcons,Los Angeles Chargers
+1,Sun,9/11/2022,1:00 PM,New Orleans Saints,@,Atlanta Falcons,27,26,385,1,416,2,Atlanta Falcons,New Orleans Saints
+18,Sun,1/7/2024,4:25 PM,Seattle Seahawks,@,Arizona Cardinals,21,20,327,0,466,0,Arizona Cardinals,Seattle Seahawks
+15,Sun,12/17/2023,4:05 PM,San Francisco 49ers,@,Arizona Cardinals,45,29,406,0,436,2,Arizona Cardinals,San Francisco 49ers
+12,Sun,11/26/2023,4:05 PM,Los Angeles Rams,@,Arizona Cardinals,37,14,457,1,292,0,Arizona Cardinals,Los Angeles Rams
+8,Sun,10/29/2023,4:25 PM,Baltimore Ravens,@,Arizona Cardinals,31,24,268,0,310,2,Arizona Cardinals,Baltimore Ravens
+5,Sun,10/8/2023,4:05 PM,Cincinnati Bengals,@,Arizona Cardinals,34,20,380,1,294,3,Arizona Cardinals,Cincinnati Bengals
+2,Sun,9/17/2023,4:05 PM,New York Giants,@,Arizona Cardinals,31,28,439,1,379,0,Arizona Cardinals,New York Giants
+16,Sun,12/25/2022,8:20 PM,Tampa Bay Buccaneers,@,Arizona Cardinals,19,16,396,2,325,3,Arizona Cardinals,Tampa Bay Buccaneers
+14,Mon,12/12/2022,8:15 PM,New England Patriots,@,Arizona Cardinals,27,13,328,1,323,2,Arizona Cardinals,New England Patriots
+12,Sun,11/27/2022,4:05 PM,Los Angeles Chargers,@,Arizona Cardinals,25,24,311,0,366,2,Arizona Cardinals,Los Angeles Chargers
+11,Mon,11/21/2022,8:15 PM,San Francisco 49ers,@,Arizona Cardinals,38,10,387,0,314,2,Arizona Cardinals,San Francisco 49ers
+9,Sun,11/6/2022,4:05 PM,Seattle Seahawks,@,Arizona Cardinals,31,21,421,1,262,1,Arizona Cardinals,Seattle Seahawks
+5,Sun,10/9/2022,4:25 PM,Philadelphia Eagles,@,Arizona Cardinals,20,17,357,0,363,1,Arizona Cardinals,Philadelphia Eagles
+3,Sun,9/25/2022,4:25 PM,Los Angeles Rams,@,Arizona Cardinals,20,12,339,1,365,0,Arizona Cardinals,Los Angeles Rams
+1,Sun,9/11/2022,4:25 PM,Kansas City Chiefs,@,Arizona Cardinals,44,21,488,1,282,0,Arizona Cardinals,Kansas City Chiefs
+16,Sun,12/24/2023,1:00 PM,New York Jets,,Washington Commanders,30,28,381,2,245,3,New York Jets,Washington Commanders
+15,Sun,12/17/2023,4:05 PM,Los Angeles Rams,,Washington Commanders,28,20,445,2,297,1,Los Angeles Rams,Washington Commanders
+12,Thu,11/23/2023,4:30 PM,Dallas Cowboys,,Washington Commanders,45,10,431,0,376,1,Dallas Cowboys,Washington Commanders
+10,Sun,11/12/2023,4:25 PM,Seattle Seahawks,,Washington Commanders,29,26,489,0,356,1,Seattle Seahawks,Washington Commanders
+7,Sun,10/22/2023,1:00 PM,New York Giants,,Washington Commanders,14,7,356,2,273,1,New York Giants,Washington Commanders
+4,Sun,10/1/2023,1:00 PM,Philadelphia Eagles,,Washington Commanders,34,31,415,0,365,0,Philadelphia Eagles,Washington Commanders
+16,Sat,12/24/2022,4:05 PM,San Francisco 49ers,,Washington Commanders,37,20,371,1,349,2,San Francisco 49ers,Washington Commanders
+4,Sun,10/2/2022,1:00 PM,Dallas Cowboys,,Washington Commanders,25,10,279,0,297,2,Dallas Cowboys,Washington Commanders
+2,Sun,9/18/2022,1:00 PM,Detroit Lions,,Washington Commanders,36,27,425,0,396,1,Detroit Lions,Washington Commanders
+17,Sun,12/31/2023,1:00 PM,Houston Texans,,Tennessee Titans,26,3,312,0,187,1,Houston Texans,Tennessee Titans
+11,Sun,11/19/2023,1:00 PM,Jacksonville Jaguars,,Tennessee Titans,34,14,389,0,235,2,Jacksonville Jaguars,Tennessee Titans
+10,Sun,11/12/2023,1:00 PM,Tampa Bay Buccaneers,,Tennessee Titans,20,6,340,1,209,1,Tampa Bay Buccaneers,Tennessee Titans
+9,Thu,11/2/2023,8:15 PM,Pittsburgh Steelers,,Tennessee Titans,20,16,326,0,340,1,Pittsburgh Steelers,Tennessee Titans
+5,Sun,10/8/2023,1:00 PM,Indianapolis Colts,,Tennessee Titans,23,16,429,0,348,1,Indianapolis Colts,Tennessee Titans
+3,Sun,9/24/2023,1:00 PM,Cleveland Browns,,Tennessee Titans,27,3,341,1,94,0,Cleveland Browns,Tennessee Titans
+1,Sun,9/10/2023,1:00 PM,New Orleans Saints,,Tennessee Titans,16,15,351,2,285,3,New Orleans Saints,Tennessee Titans
+18,Sat,1/7/2023,8:15 PM,Jacksonville Jaguars,,Tennessee Titans,20,16,222,1,312,2,Jacksonville Jaguars,Tennessee Titans
+15,Sun,12/18/2022,4:25 PM,Los Angeles Chargers,,Tennessee Titans,17,14,365,2,284,1,Los Angeles Chargers,Tennessee Titans
+13,Sun,12/4/2022,1:00 PM,Philadelphia Eagles,,Tennessee Titans,35,10,453,0,209,0,Philadelphia Eagles,Tennessee Titans
+9,Sun,11/6/2022,8:20 PM,Kansas City Chiefs,,Tennessee Titans,20,17,499,1,229,0,Kansas City Chiefs,Tennessee Titans
+2,Mon,9/19/2022,7:15 PM,Buffalo Bills,,Tennessee Titans,41,7,414,0,187,4,Buffalo Bills,Tennessee Titans
+12,Sun,11/26/2023,1:00 PM,Indianapolis Colts,,Tampa Bay Buccaneers,27,20,394,1,298,2,Indianapolis Colts,Tampa Bay Buccaneers
+11,Sun,11/19/2023,4:05 PM,San Francisco 49ers,,Tampa Bay Buccaneers,27,14,420,0,287,2,San Francisco 49ers,Tampa Bay Buccaneers
+9,Sun,11/5/2023,1:00 PM,Houston Texans,,Tampa Bay Buccaneers,39,37,496,1,332,1,Houston Texans,Tampa Bay Buccaneers
+8,Thu,10/26/2023,8:15 PM,Buffalo Bills,,Tampa Bay Buccaneers,24,18,427,1,302,0,Buffalo Bills,Tampa Bay Buccaneers
+18,Sun,1/8/2023,1:00 PM,Atlanta Falcons,,Tampa Bay Buccaneers,30,17,382,1,222,1,Atlanta Falcons,Tampa Bay Buccaneers
+14,Sun,12/11/2022,4:25 PM,San Francisco 49ers,,Tampa Bay Buccaneers,35,7,404,1,322,3,San Francisco 49ers,Tampa Bay Buccaneers
+12,Sun,11/27/2022,1:00 PM,Cleveland Browns,,Tampa Bay Buccaneers,23,17,367,1,325,0,Cleveland Browns,Tampa Bay Buccaneers
+7,Sun,10/23/2022,1:00 PM,Carolina Panthers,,Tampa Bay Buccaneers,21,3,343,0,322,0,Carolina Panthers,Tampa Bay Buccaneers
+6,Sun,10/16/2022,1:00 PM,Pittsburgh Steelers,,Tampa Bay Buccaneers,20,18,270,0,304,0,Pittsburgh Steelers,Tampa Bay Buccaneers
+14,Sun,12/10/2023,4:05 PM,San Francisco 49ers,,Seattle Seahawks,28,16,527,2,324,2,San Francisco 49ers,Seattle Seahawks
+13,Thu,11/30/2023,8:15 PM,Dallas Cowboys,,Seattle Seahawks,41,35,411,0,406,1,Dallas Cowboys,Seattle Seahawks
+11,Sun,11/19/2023,4:25 PM,Los Angeles Rams,,Seattle Seahawks,17,16,267,1,291,1,Los Angeles Rams,Seattle Seahawks
+9,Sun,11/5/2023,1:00 PM,Baltimore Ravens,,Seattle Seahawks,37,3,515,2,151,2,Baltimore Ravens,Seattle Seahawks
+6,Sun,10/15/2023,1:00 PM,Cincinnati Bengals,,Seattle Seahawks,17,13,214,1,384,2,Cincinnati Bengals,Seattle Seahawks
+16,Sat,12/24/2022,1:00 PM,Kansas City Chiefs,,Seattle Seahawks,24,10,297,0,333,1,Kansas City Chiefs,Seattle Seahawks
+10,Sun,11/13/2022,9:30 AM,Tampa Bay Buccaneers,,Seattle Seahawks,21,16,419,2,283,1,Tampa Bay Buccaneers,Seattle Seahawks
+5,Sun,10/9/2022,1:00 PM,New Orleans Saints,,Seattle Seahawks,39,32,438,2,396,1,New Orleans Saints,Seattle Seahawks
+2,Sun,9/18/2022,4:05 PM,San Francisco 49ers,,Seattle Seahawks,27,7,373,0,216,3,San Francisco 49ers,Seattle Seahawks
+7,Mon,10/23/2023,8:15 PM,Minnesota Vikings,,San Francisco 49ers,22,17,452,1,325,3,Minnesota Vikings,San Francisco 49ers
+6,Sun,10/15/2023,1:00 PM,Cleveland Browns,,San Francisco 49ers,19,17,334,2,215,1,Cleveland Browns,San Francisco 49ers
+6,Sun,10/16/2022,1:00 PM,Atlanta Falcons,,San Francisco 49ers,28,14,289,0,346,3,Atlanta Falcons,San Francisco 49ers
+3,Sun,9/25/2022,8:20 PM,Denver Broncos,,San Francisco 49ers,11,10,261,0,267,3,Denver Broncos,San Francisco 49ers
+1,Sun,9/11/2022,1:00 PM,Chicago Bears,,San Francisco 49ers,19,10,204,1,331,2,Chicago Bears,San Francisco 49ers
+15,Sun,12/16/2023,4:30 PM,Indianapolis Colts,,Pittsburgh Steelers,30,13,372,0,216,3,Indianapolis Colts,Pittsburgh Steelers
+11,Sun,11/19/2023,1:00 PM,Cleveland Browns,,Pittsburgh Steelers,13,10,259,1,249,0,Cleveland Browns,Pittsburgh Steelers
+4,Sun,10/1/2023,1:00 PM,Houston Texans,,Pittsburgh Steelers,30,6,451,0,225,1,Houston Texans,Pittsburgh Steelers
+8,Sun,10/30/2022,1:00 PM,Philadelphia Eagles,,Pittsburgh Steelers,35,13,401,0,302,2,Philadelphia Eagles,Pittsburgh Steelers
+7,Sun,10/23/2022,8:20 PM,Miami Dolphins,,Pittsburgh Steelers,16,10,372,0,341,3,Miami Dolphins,Pittsburgh Steelers
+5,Sun,10/9/2022,1:00 PM,Buffalo Bills,,Pittsburgh Steelers,38,3,552,2,364,2,Buffalo Bills,Pittsburgh Steelers
+3,Thu,9/22/2022,8:15 PM,Cleveland Browns,,Pittsburgh Steelers,29,17,376,0,308,1,Cleveland Browns,Pittsburgh Steelers
+18,Sun,1/7/2024,4:25 PM,New York Giants,,Philadelphia Eagles,27,10,415,1,299,4,New York Giants,Philadelphia Eagles
+15,Sun,12/18/2023,8:15 PM,Seattle Seahawks,,Philadelphia Eagles,20,17,297,0,321,2,Seattle Seahawks,Philadelphia Eagles
+14,Sun,12/10/2023,8:20 PM,Dallas Cowboys,,Philadelphia Eagles,33,13,394,1,324,3,Dallas Cowboys,Philadelphia Eagles
+6,Sun,10/15/2023,4:25 PM,New York Jets,,Philadelphia Eagles,20,14,244,0,348,4,New York Jets,Philadelphia Eagles
+16,Sat,12/24/2022,4:25 PM,Dallas Cowboys,,Philadelphia Eagles,40,34,419,1,442,4,Dallas Cowboys,Philadelphia Eagles
+17,Thu,12/28/2023,8:15 PM,Cleveland Browns,,New York Jets,37,20,428,3,360,2,Cleveland Browns,New York Jets
+15,Sun,12/17/2023,1:00 PM,Miami Dolphins,,New York Jets,30,0,290,0,103,4,Miami Dolphins,New York Jets
+11,Sun,11/19/2023,4:25 PM,Buffalo Bills,,New York Jets,32,6,393,1,155,4,Buffalo Bills,New York Jets
+10,Sun,11/12/2023,8:20 PM,Las Vegas Raiders,,New York Jets,16,12,274,2,365,1,Las Vegas Raiders,New York Jets
+2,Sun,9/17/2023,4:25 PM,Dallas Cowboys,,New York Jets,30,10,382,0,215,4,Dallas Cowboys,New York Jets
+18,Sun,1/8/2023,1:00 PM,Miami Dolphins,,New York Jets,11,6,302,0,187,0,Miami Dolphins,New York Jets
+17,Sun,1/1/2023,4:05 PM,Seattle Seahawks,,New York Jets,23,6,346,0,279,3,Seattle Seahawks,New York Jets
+14,Sun,12/11/2022,1:00 PM,Buffalo Bills,,New York Jets,20,12,232,0,309,2,Buffalo Bills,New York Jets
+13,Sun,12/4/2022,1:00 PM,Minnesota Vikings,,New York Jets,27,22,287,0,486,2,Minnesota Vikings,New York Jets
+11,Sun,11/20/2022,1:00 PM,New England Patriots,,New York Jets,10,3,297,0,103,0,New England Patriots,New York Jets
+16,Mon,12/25/2023,4:30 PM,Philadelphia Eagles,,New York Giants,33,25,465,2,292,1,Philadelphia Eagles,New York Giants
+15,Sun,12/17/2023,1:00 PM,New Orleans Saints,,New York Giants,24,6,296,0,193,0,New Orleans Saints,New York Giants
+10,Sun,11/12/2023,4:25 PM,Dallas Cowboys,,New York Giants,49,17,640,2,172,1,Dallas Cowboys,New York Giants
+9,Sun,11/5/2023,4:25 PM,Las Vegas Raiders,,New York Giants,30,6,334,0,277,2,Las Vegas Raiders,New York Giants
+6,Sun,10/15/2023,8:20 PM,Buffalo Bills,,New York Giants,14,9,297,2,317,0,Buffalo Bills,New York Giants
+5,Sun,10/8/2023,1:00 PM,Miami Dolphins,,New York Giants,31,16,524,3,268,0,Miami Dolphins,New York Giants
+3,Thu,9/21/2023,8:15 PM,San Francisco 49ers,,New York Giants,30,12,441,0,150,1,San Francisco 49ers,New York Giants
+18,Sun,1/8/2023,4:25 PM,Philadelphia Eagles,,New York Giants,22,16,342,1,284,0,Philadelphia Eagles,New York Giants
+16,Sat,12/24/2022,1:00 PM,Minnesota Vikings,,New York Giants,27,24,353,0,445,2,Minnesota Vikings,New York Giants
+12,Thu,11/24/2022,4:30 PM,Dallas Cowboys,,New York Giants,28,20,430,2,300,0,Dallas Cowboys,New York Giants
+8,Sun,10/30/2022,4:25 PM,Seattle Seahawks,,New York Giants,27,13,277,1,225,2,Seattle Seahawks,New York Giants
+16,Thu,12/21/2023,8:15 PM,Los Angeles Rams,,New Orleans Saints,30,22,458,0,339,1,Los Angeles Rams,New Orleans Saints
+12,Sun,11/26/2023,1:00 PM,Atlanta Falcons,,New Orleans Saints,24,15,396,2,444,2,Atlanta Falcons,New Orleans Saints
+10,Sun,11/12/2023,1:00 PM,Minnesota Vikings,,New Orleans Saints,27,19,388,0,280,2,Minnesota Vikings,New Orleans Saints
+6,Sun,10/15/2023,1:00 PM,Houston Texans,,New Orleans Saints,20,13,297,1,430,2,Houston Texans,New Orleans Saints
+3,Sun,9/24/2023,1:00 PM,Green Bay Packers,,New Orleans Saints,18,17,340,1,252,0,Green Bay Packers,New Orleans Saints
+13,Mon,12/5/2022,8:15 PM,Tampa Bay Buccaneers,,New Orleans Saints,17,16,350,2,298,0,Tampa Bay Buccaneers,New Orleans Saints
+12,Sun,11/27/2022,4:25 PM,San Francisco 49ers,,New Orleans Saints,13,0,317,0,260,2,San Francisco 49ers,New Orleans Saints
+10,Sun,11/13/2022,1:00 PM,Pittsburgh Steelers,,New Orleans Saints,20,10,379,0,186,2,Pittsburgh Steelers,New Orleans Saints
+7,Thu,10/20/2022,8:15 PM,Arizona Cardinals,,New Orleans Saints,42,34,326,0,494,3,Arizona Cardinals,New Orleans Saints
+3,Sun,9/25/2022,1:00 PM,Carolina Panthers,,New Orleans Saints,22,14,293,0,426,3,Carolina Panthers,New Orleans Saints
+17,Sun,12/31/2023,1:00 PM,Buffalo Bills,,New England Patriots,27,21,281,1,294,4,Buffalo Bills,New England Patriots
+12,Sun,11/26/2023,1:00 PM,New York Giants,,New England Patriots,10,7,220,1,283,3,New York Giants,New England Patriots
+8,Sun,10/29/2023,1:00 PM,Miami Dolphins,,New England Patriots,31,17,390,2,218,1,Miami Dolphins,New England Patriots
+6,Sun,10/15/2023,4:05 PM,Las Vegas Raiders,,New England Patriots,21,17,348,1,259,1,Las Vegas Raiders,New England Patriots
+4,Sun,10/1/2023,4:25 PM,Dallas Cowboys,,New England Patriots,38,3,377,0,253,3,Dallas Cowboys,New England Patriots
+18,Sun,1/8/2023,1:00 PM,Buffalo Bills,,New England Patriots,35,23,327,3,341,3,Buffalo Bills,New England Patriots
+15,Sun,12/18/2022,4:05 PM,Las Vegas Raiders,,New England Patriots,30,24,308,1,318,1,Las Vegas Raiders,New England Patriots
+12,Thu,11/24/2022,8:20 PM,Minnesota Vikings,,New England Patriots,33,26,358,1,409,0,Minnesota Vikings,New England Patriots
+4,Sun,10/2/2022,4:25 PM,Green Bay Packers,,New England Patriots,27,24,443,2,271,1,Green Bay Packers,New England Patriots
+1,Sun,9/11/2022,1:00 PM,Miami Dolphins,,New England Patriots,20,7,307,0,271,3,Miami Dolphins,New England Patriots
+18,Sun,1/7/2024,1:00 PM,Detroit Lions,,Minnesota Vikings,30,20,381,0,448,2,Detroit Lions,Minnesota Vikings
+15,Sun,12/16/2023,1:00 PM,Cincinnati Bengals,,Minnesota Vikings,27,24,378,1,424,2,Cincinnati Bengals,Minnesota Vikings
+11,Sun,11/19/2023,8:20 PM,Denver Broncos,,Minnesota Vikings,21,20,295,0,385,3,Denver Broncos,Minnesota Vikings
+2,Thu,9/14/2023,8:15 PM,Philadelphia Eagles,,Minnesota Vikings,34,28,430,1,374,4,Philadelphia Eagles,Minnesota Vikings
+17,Sun,1/1/2023,4:25 PM,Green Bay Packers,,Minnesota Vikings,41,17,315,0,346,4,Green Bay Packers,Minnesota Vikings
+14,Sun,12/11/2022,1:00 PM,Detroit Lions,,Minnesota Vikings,34,23,464,0,416,2,Detroit Lions,Minnesota Vikings
+2,Mon,9/19/2022,8:30 PM,Philadelphia Eagles,,Minnesota Vikings,24,7,486,1,264,3,Philadelphia Eagles,Minnesota Vikings
+17,Sun,12/31/2023,1:00 PM,Baltimore Ravens,,Miami Dolphins,56,19,491,1,375,3,Baltimore Ravens,Miami Dolphins
+9,Sun,11/5/2023,9:30 AM,Kansas City Chiefs,,Miami Dolphins,21,14,267,1,292,1,Kansas City Chiefs,Miami Dolphins
+7,Sun,10/22/2023,8:20 PM,Philadelphia Eagles,,Miami Dolphins,31,17,355,2,244,1,Philadelphia Eagles,Miami Dolphins
+4,Sun,10/1/2023,1:00 PM,Buffalo Bills,,Miami Dolphins,48,20,414,0,393,2,Buffalo Bills,Miami Dolphins
+17,Sun,1/1/2023,1:00 PM,New England Patriots,,Miami Dolphins,23,21,249,0,333,2,New England Patriots,Miami Dolphins
+15,Sat,12/17/2022,8:15 PM,Buffalo Bills,,Miami Dolphins,32,29,446,1,405,0,Buffalo Bills,Miami Dolphins
+14,Sun,12/11/2022,8:20 PM,Los Angeles Chargers,,Miami Dolphins,23,17,432,0,219,0,Los Angeles Chargers,Miami Dolphins
+13,Sun,12/4/2022,4:05 PM,San Francisco 49ers,,Miami Dolphins,33,17,351,1,308,4,San Francisco 49ers,Miami Dolphins
+5,Sun,10/9/2022,1:00 PM,New York Jets,,Miami Dolphins,40,17,322,0,295,2,New York Jets,Miami Dolphins
+4,Thu,9/29/2022,8:15 PM,Cincinnati Bengals,,Miami Dolphins,27,15,371,0,378,2,Cincinnati Bengals,Miami Dolphins
+14,Sun,12/10/2023,1:00 PM,Baltimore Ravens,,Los Angeles Rams,37,31,449,1,410,0,Baltimore Ravens,Los Angeles Rams
+9,Sun,11/5/2023,1:00 PM,Green Bay Packers,,Los Angeles Rams,20,3,391,2,187,2,Green Bay Packers,Los Angeles Rams
+8,Sun,10/29/2023,1:00 PM,Dallas Cowboys,,Los Angeles Rams,43,20,387,1,280,1,Dallas Cowboys,Los Angeles Rams
+3,Mon,9/25/2023,8:15 PM,Cincinnati Bengals,,Los Angeles Rams,19,16,309,1,292,2,Cincinnati Bengals,Los Angeles Rams
+18,Sun,1/8/2023,4:25 PM,Seattle Seahawks,,Los Angeles Rams,19,16,402,2,269,1,Seattle Seahawks,Los Angeles Rams
+17,Sun,1/1/2023,4:25 PM,Los Angeles Chargers,,Los Angeles Rams,31,10,431,0,277,1,Los Angeles Chargers,Los Angeles Rams
+15,Mon,12/19/2022,8:15 PM,Green Bay Packers,,Los Angeles Rams,24,12,345,2,156,1,Green Bay Packers,Los Angeles Rams
+12,Sun,11/27/2022,4:25 PM,Kansas City Chiefs,,Los Angeles Rams,26,10,437,2,198,2,Kansas City Chiefs,Los Angeles Rams
+11,Sun,11/20/2022,1:00 PM,New Orleans Saints,,Los Angeles Rams,27,20,323,0,336,0,New Orleans Saints,Los Angeles Rams
+9,Sun,11/6/2022,4:25 PM,Tampa Bay Buccaneers,,Los Angeles Rams,16,13,323,0,206,0,Tampa Bay Buccaneers,Los Angeles Rams
+4,Mon,10/3/2022,8:15 PM,San Francisco 49ers,,Los Angeles Rams,24,9,327,0,257,2,San Francisco 49ers,Los Angeles Rams
+17,Sun,12/31/2023,4:25 PM,Denver Broncos,,Los Angeles Chargers,16,9,313,0,301,1,Denver Broncos,Los Angeles Chargers
+15,Thu,12/14/2023,8:15 PM,Las Vegas Raiders,,Los Angeles Chargers,63,21,378,0,326,5,Las Vegas Raiders,Los Angeles Chargers
+11,Sun,11/19/2023,1:00 PM,Green Bay Packers,,Los Angeles Chargers,23,20,397,0,394,1,Green Bay Packers,Los Angeles Chargers
+7,Sun,10/22/2023,4:25 PM,Kansas City Chiefs,,Los Angeles Chargers,31,17,483,2,358,2,Kansas City Chiefs,Los Angeles Chargers
+2,Sun,9/17/2023,1:00 PM,Tennessee Titans,,Los Angeles Chargers,27,24,341,0,342,0,Tennessee Titans,Los Angeles Chargers
+18,Sun,1/8/2023,4:25 PM,Denver Broncos,,Los Angeles Chargers,31,28,471,2,352,2,Denver Broncos,Los Angeles Chargers
+13,Sun,12/4/2022,4:25 PM,Las Vegas Raiders,,Los Angeles Chargers,27,20,404,2,386,1,Las Vegas Raiders,Los Angeles Chargers
+10,Sun,11/13/2022,8:20 PM,San Francisco 49ers,,Los Angeles Chargers,22,16,387,1,238,1,San Francisco 49ers,Los Angeles Chargers
+2,Thu,9/15/2022,8:15 PM,Kansas City Chiefs,,Los Angeles Chargers,27,24,319,0,401,1,Kansas City Chiefs,Los Angeles Chargers
+17,Sun,12/31/2023,1:00 PM,Indianapolis Colts,,Las Vegas Raiders,23,20,349,0,370,0,Indianapolis Colts,Las Vegas Raiders
+11,Sun,11/19/2023,1:00 PM,Miami Dolphins,,Las Vegas Raiders,20,13,422,3,296,3,Miami Dolphins,Las Vegas Raiders
+8,Mon,10/30/2023,8:15 PM,Detroit Lions,,Las Vegas Raiders,26,14,486,3,157,1,Detroit Lions,Las Vegas Raiders
+7,Sun,10/22/2023,1:00 PM,Chicago Bears,,Las Vegas Raiders,30,12,323,0,235,3,Chicago Bears,Las Vegas Raiders
+4,Sun,10/1/2023,4:05 PM,Los Angeles Chargers,,Las Vegas Raiders,24,17,305,1,264,3,Los Angeles Chargers,Las Vegas Raiders
+2,Sun,9/17/2023,1:00 PM,Buffalo Bills,,Las Vegas Raiders,38,10,450,0,240,3,Buffalo Bills,Las Vegas Raiders
+16,Sat,12/24/2022,8:15 PM,Pittsburgh Steelers,,Las Vegas Raiders,13,10,350,1,201,3,Pittsburgh Steelers,Las Vegas Raiders
+14,Thu,12/8/2022,8:15 PM,Los Angeles Rams,,Las Vegas Raiders,17,16,282,1,302,2,Los Angeles Rams,Las Vegas Raiders
+9,Sun,11/6/2022,1:00 PM,Jacksonville Jaguars,,Las Vegas Raiders,27,20,403,1,321,1,Jacksonville Jaguars,Las Vegas Raiders
+8,Sun,10/30/2022,1:00 PM,New Orleans Saints,,Las Vegas Raiders,24,0,367,0,183,1,New Orleans Saints,Las Vegas Raiders
+5,Mon,10/10/2022,8:15 PM,Kansas City Chiefs,,Las Vegas Raiders,30,29,368,0,378,0,Kansas City Chiefs,Las Vegas Raiders
+3,Sun,9/25/2022,1:00 PM,Tennessee Titans,,Las Vegas Raiders,24,22,361,1,396,1,Tennessee Titans,Las Vegas Raiders
+1,Sun,9/11/2022,4:25 PM,Los Angeles Chargers,,Las Vegas Raiders,24,19,355,0,320,3,Los Angeles Chargers,Las Vegas Raiders
+13,Sun,12/3/2023,8:20 PM,Green Bay Packers,,Kansas City Chiefs,27,19,382,0,337,1,Green Bay Packers,Kansas City Chiefs
+8,Sun,10/29/2023,4:25 PM,Denver Broncos,,Kansas City Chiefs,24,9,240,1,274,5,Denver Broncos,Kansas City Chiefs
+13,Sun,12/4/2022,4:25 PM,Cincinnati Bengals,,Kansas City Chiefs,27,24,431,0,349,1,Cincinnati Bengals,Kansas City Chiefs
+3,Sun,9/25/2022,1:00 PM,Indianapolis Colts,,Kansas City Chiefs,20,17,259,1,315,2,Indianapolis Colts,Kansas City Chiefs
+18,Sun,1/7/2024,1:00 PM,Tennessee Titans,,Jacksonville Jaguars,28,20,327,1,362,2,Tennessee Titans,Jacksonville Jaguars
+16,Sun,12/24/2023,4:05 PM,Tampa Bay Buccaneers,,Jacksonville Jaguars,30,12,335,0,305,4,Tampa Bay Buccaneers,Jacksonville Jaguars
+14,Sun,12/10/2023,1:00 PM,Cleveland Browns,,Jacksonville Jaguars,31,27,389,3,293,4,Cleveland Browns,Jacksonville Jaguars
+13,Sun,12/4/2022,1:00 PM,Detroit Lions,,Jacksonville Jaguars,40,14,437,0,266,1,Detroit Lions,Jacksonville Jaguars
+10,Sun,11/13/2022,1:00 PM,Kansas City Chiefs,,Jacksonville Jaguars,27,17,486,3,315,0,Kansas City Chiefs,Jacksonville Jaguars
+6,Sun,10/16/2022,1:00 PM,Indianapolis Colts,,Jacksonville Jaguars,34,27,434,0,379,1,Indianapolis Colts,Jacksonville Jaguars
+4,Sun,10/2/2022,1:00 PM,Philadelphia Eagles,,Jacksonville Jaguars,29,21,401,1,219,5,Philadelphia Eagles,Jacksonville Jaguars
+1,Sun,9/11/2022,1:00 PM,Washington Commanders,,Jacksonville Jaguars,28,22,390,3,383,1,Washington Commanders,Jacksonville Jaguars
+16,Sun,12/24/2023,1:00 PM,Atlanta Falcons,,Indianapolis Colts,29,10,406,0,262,1,Atlanta Falcons,Indianapolis Colts
+14,Sun,12/10/2023,1:00 PM,Cincinnati Bengals,,Indianapolis Colts,34,14,385,1,272,2,Cincinnati Bengals,Indianapolis Colts
+6,Sun,10/15/2023,1:00 PM,Jacksonville Jaguars,,Indianapolis Colts,37,20,233,1,354,4,Jacksonville Jaguars,Indianapolis Colts
+17,Sun,1/1/2023,1:00 PM,New York Giants,,Indianapolis Colts,38,10,394,1,252,1,New York Giants,Indianapolis Colts
+15,Sat,12/17/2022,1:00 PM,Minnesota Vikings,,Indianapolis Colts,39,36,518,3,341,1,Minnesota Vikings,Indianapolis Colts
+13,Sun,12/4/2022,8:20 PM,Dallas Cowboys,,Indianapolis Colts,54,19,385,1,309,5,Dallas Cowboys,Indianapolis Colts
+9,Sun,11/6/2022,1:00 PM,New England Patriots,,Indianapolis Colts,26,3,203,1,121,1,New England Patriots,Indianapolis Colts
+7,Sun,10/23/2022,1:00 PM,Tennessee Titans,,Indianapolis Colts,19,10,254,1,292,3,Tennessee Titans,Indianapolis Colts
+2,Sun,9/18/2022,1:00 PM,Jacksonville Jaguars,,Indianapolis Colts,24,0,331,0,218,3,Jacksonville Jaguars,Indianapolis Colts
+1,Sun,9/11/2022,1:00 PM,Houston Texans,,Indianapolis Colts,20,20,299,1,517,2,Houston Texans,Indianapolis Colts
+14,Sun,12/10/2023,1:00 PM,New York Jets,,Houston Texans,30,6,347,1,135,0,New York Jets,Houston Texans
+8,Sun,10/29/2023,1:00 PM,Carolina Panthers,,Houston Texans,15,13,224,0,229,1,Carolina Panthers,Houston Texans
+5,Sun,10/8/2023,1:00 PM,Atlanta Falcons,,Houston Texans,21,19,447,2,313,0,Atlanta Falcons,Houston Texans
+1,Sun,9/10/2023,1:00 PM,Baltimore Ravens,,Houston Texans,25,9,265,2,268,1,Baltimore Ravens,Houston Texans
+14,Sun,12/11/2022,1:00 PM,Dallas Cowboys,,Houston Texans,27,23,404,3,327,2,Dallas Cowboys,Houston Texans
+12,Sun,11/27/2022,1:00 PM,Miami Dolphins,,Houston Texans,30,15,339,1,210,3,Miami Dolphins,Houston Texans
+10,Sun,11/13/2022,1:00 PM,New York Giants,,Houston Texans,24,16,367,0,387,2,New York Giants,Houston Texans
+7,Sun,10/23/2022,4:05 PM,Las Vegas Raiders,,Houston Texans,38,20,400,0,404,1,Las Vegas Raiders,Houston Texans
+3,Sun,9/25/2022,1:00 PM,Chicago Bears,,Houston Texans,23,20,363,2,329,2,Chicago Bears,Houston Texans
+2,Sun,9/18/2022,4:25 PM,Denver Broncos,,Houston Texans,16,9,350,1,234,0,Denver Broncos,Houston Texans
+14,Mon,12/11/2023,8:15 PM,New York Giants,,Green Bay Packers,24,22,367,2,326,3,New York Giants,Green Bay Packers
+10,Sun,11/12/2023,1:00 PM,Pittsburgh Steelers,,Green Bay Packers,23,19,324,0,399,2,Pittsburgh Steelers,Green Bay Packers
+7,Sun,10/22/2023,4:25 PM,Denver Broncos,,Green Bay Packers,19,17,339,0,331,1,Denver Broncos,Green Bay Packers
+5,Mon,10/9/2023,8:15 PM,Las Vegas Raiders,,Green Bay Packers,17,13,279,1,285,3,Las Vegas Raiders,Green Bay Packers
+2,Sun,9/17/2023,1:00 PM,Atlanta Falcons,,Green Bay Packers,25,24,446,1,224,0,Atlanta Falcons,Green Bay Packers
+12,Sun,11/27/2022,8:20 PM,Philadelphia Eagles,,Green Bay Packers,40,33,500,1,342,2,Philadelphia Eagles,Green Bay Packers
+9,Sun,11/6/2022,1:00 PM,Detroit Lions,,Green Bay Packers,15,9,254,1,389,3,Detroit Lions,Green Bay Packers
+8,Sun,10/30/2022,8:20 PM,Buffalo Bills,,Green Bay Packers,27,17,369,2,398,1,Buffalo Bills,Green Bay Packers
+7,Sun,10/23/2022,1:00 PM,Washington Commanders,,Green Bay Packers,23,21,364,1,232,1,Washington Commanders,Green Bay Packers
+1,Sun,9/11/2022,4:25 PM,Minnesota Vikings,,Green Bay Packers,23,7,395,0,338,2,Minnesota Vikings,Green Bay Packers
+17,Sat,12/30/2023,8:15 PM,Dallas Cowboys,,Detroit Lions,20,19,384,2,420,2,Dallas Cowboys,Detroit Lions
+14,Sun,12/10/2023,1:00 PM,Chicago Bears,,Detroit Lions,28,13,336,0,267,3,Chicago Bears,Detroit Lions
+7,Sun,10/22/2023,1:00 PM,Baltimore Ravens,,Detroit Lions,38,6,503,1,337,1,Baltimore Ravens,Detroit Lions
+16,Sat,12/24/2022,1:00 PM,Carolina Panthers,,Detroit Lions,37,23,570,0,381,1,Carolina Panthers,Detroit Lions
+7,Sun,10/23/2022,1:00 PM,Dallas Cowboys,,Detroit Lions,24,6,330,1,312,5,Dallas Cowboys,Detroit Lions
+5,Sun,10/9/2022,1:00 PM,New England Patriots,,Detroit Lions,29,0,364,1,312,2,New England Patriots,Detroit Lions
+3,Sun,9/25/2022,1:00 PM,Minnesota Vikings,,Detroit Lions,28,24,373,1,416,1,Minnesota Vikings,Detroit Lions
+18,Sun,1/7/2024,4:25 PM,Las Vegas Raiders,,Denver Broncos,27,14,359,0,286,1,Las Vegas Raiders,Denver Broncos
+15,Sun,12/16/2023,8:15 PM,Detroit Lions,,Denver Broncos,42,17,448,0,287,1,Detroit Lions,Denver Broncos
+13,Sun,12/3/2023,1:00 PM,Houston Texans,,Denver Broncos,22,17,353,0,282,3,Houston Texans,Denver Broncos
+6,Thu,10/12/2023,8:15 PM,Kansas City Chiefs,,Denver Broncos,19,8,389,1,197,3,Kansas City Chiefs,Denver Broncos
+3,Sun,9/24/2023,1:00 PM,Miami Dolphins,,Denver Broncos,70,20,726,0,363,3,Miami Dolphins,Denver Broncos
+17,Sun,1/1/2023,1:00 PM,Kansas City Chiefs,,Denver Broncos,27,24,374,2,307,2,Kansas City Chiefs,Denver Broncos
+16,Sun,12/25/2022,4:30 PM,Los Angeles Rams,,Denver Broncos,51,14,388,0,323,4,Los Angeles Rams,Denver Broncos
+13,Sun,12/4/2022,1:00 PM,Baltimore Ravens,,Denver Broncos,10,9,285,2,272,0,Baltimore Ravens,Denver Broncos
+12,Sun,11/27/2022,1:00 PM,Carolina Panthers,,Denver Broncos,23,10,349,1,246,2,Carolina Panthers,Denver Broncos
+10,Sun,11/13/2022,1:00 PM,Tennessee Titans,,Denver Broncos,17,10,307,1,313,1,Tennessee Titans,Denver Broncos
+6,Mon,10/17/2022,8:15 PM,Los Angeles Chargers,,Denver Broncos,19,16,297,1,258,1,Los Angeles Chargers,Denver Broncos
+4,Sun,10/2/2022,4:25 PM,Las Vegas Raiders,,Denver Broncos,32,23,385,0,299,1,Las Vegas Raiders,Denver Broncos
+1,Mon,9/12/2022,8:20 PM,Seattle Seahawks,,Denver Broncos,17,16,253,1,433,2,Seattle Seahawks,Denver Broncos
+16,Sun,12/24/2023,4:25 PM,Miami Dolphins,,Dallas Cowboys,22,20,375,0,339,1,Miami Dolphins,Dallas Cowboys
+15,Sun,12/17/2023,4:25 PM,Buffalo Bills,,Dallas Cowboys,31,10,351,0,195,1,Buffalo Bills,Dallas Cowboys
+9,Sun,11/5/2023,4:25 PM,Philadelphia Eagles,,Dallas Cowboys,28,23,292,0,406,1,Philadelphia Eagles,Dallas Cowboys
+5,Sun,10/8/2023,8:20 PM,San Francisco 49ers,,Dallas Cowboys,42,10,421,1,197,4,San Francisco 49ers,Dallas Cowboys
+3,Sun,9/24/2023,4:25 PM,Arizona Cardinals,,Dallas Cowboys,28,16,400,0,416,1,Arizona Cardinals,Dallas Cowboys
+18,Sun,1/8/2023,4:25 PM,Washington Commanders,,Dallas Cowboys,26,6,309,1,182,2,Washington Commanders,Dallas Cowboys
+15,Sun,12/18/2022,1:00 PM,Jacksonville Jaguars,,Dallas Cowboys,40,34,503,3,397,2,Jacksonville Jaguars,Dallas Cowboys
+10,Sun,11/13/2022,4:25 PM,Green Bay Packers,,Dallas Cowboys,31,28,415,2,421,2,Green Bay Packers,Dallas Cowboys
+6,Sun,10/16/2022,8:20 PM,Philadelphia Eagles,,Dallas Cowboys,26,17,268,0,315,3,Philadelphia Eagles,Dallas Cowboys
+18,Sun,1/7/2024,1:00 PM,Cincinnati Bengals,,Cleveland Browns,31,14,328,1,244,2,Cincinnati Bengals,Cleveland Browns
+13,Sun,12/3/2023,4:25 PM,Los Angeles Rams,,Cleveland Browns,36,19,399,0,327,1,Los Angeles Rams,Cleveland Browns
+12,Sun,11/26/2023,4:05 PM,Denver Broncos,,Cleveland Browns,29,12,294,1,269,3,Denver Broncos,Cleveland Browns
+8,Sun,10/29/2023,4:05 PM,Seattle Seahawks,,Cleveland Browns,24,20,362,2,385,3,Seattle Seahawks,Cleveland Browns
+2,Mon,9/18/2023,8:15 PM,Pittsburgh Steelers,,Cleveland Browns,26,22,255,2,408,4,Pittsburgh Steelers,Cleveland Browns
+18,Sun,1/8/2023,1:00 PM,Pittsburgh Steelers,,Cleveland Browns,28,14,333,1,307,2,Pittsburgh Steelers,Cleveland Browns
+14,Sun,12/11/2022,1:00 PM,Cincinnati Bengals,,Cleveland Browns,23,10,363,1,344,1,Cincinnati Bengals,Cleveland Browns
+11,Sun,11/20/2022,1:00 PM,Buffalo Bills,,Cleveland Browns,31,23,357,0,396,1,Buffalo Bills,Cleveland Browns
+10,Sun,11/13/2022,1:00 PM,Miami Dolphins,,Cleveland Browns,39,17,491,0,297,1,Miami Dolphins,Cleveland Browns
+7,Sun,10/23/2022,1:00 PM,Baltimore Ravens,,Cleveland Browns,23,20,254,1,336,2,Baltimore Ravens,Cleveland Browns
+4,Sun,10/2/2022,1:00 PM,Atlanta Falcons,,Cleveland Browns,23,20,333,1,403,2,Atlanta Falcons,Cleveland Browns
+17,Sun,12/31/2023,4:25 PM,Kansas City Chiefs,,Cincinnati Bengals,25,17,373,1,263,0,Kansas City Chiefs,Cincinnati Bengals
+16,Sat,12/23/2023,4:30 PM,Pittsburgh Steelers,,Cincinnati Bengals,34,11,397,0,368,3,Pittsburgh Steelers,Cincinnati Bengals
+11,Thu,11/16/2023,8:15 PM,Baltimore Ravens,,Cincinnati Bengals,34,20,405,0,272,0,Baltimore Ravens,Cincinnati Bengals
+4,Sun,10/1/2023,1:00 PM,Tennessee Titans,,Cincinnati Bengals,27,3,400,1,211,1,Tennessee Titans,Cincinnati Bengals
+1,Sun,9/10/2023,1:00 PM,Cleveland Browns,,Cincinnati Bengals,24,3,350,2,142,0,Cleveland Browns,Cincinnati Bengals
+8,Mon,10/31/2022,8:15 PM,Cleveland Browns,,Cincinnati Bengals,32,13,440,2,229,2,Cleveland Browns,Cincinnati Bengals
+5,Sun,10/9/2022,8:20 PM,Baltimore Ravens,,Cincinnati Bengals,19,17,325,1,291,1,Baltimore Ravens,Cincinnati Bengals
+2,Sun,9/18/2022,4:25 PM,Dallas Cowboys,,Cincinnati Bengals,20,17,337,1,254,0,Dallas Cowboys,Cincinnati Bengals
+18,Sun,1/7/2024,4:25 PM,Green Bay Packers,,Chicago Bears,17,9,432,1,192,0,Green Bay Packers,Chicago Bears
+15,Sun,12/17/2023,1:00 PM,Cleveland Browns,,Chicago Bears,20,17,377,3,236,3,Cleveland Browns,Chicago Bears
+11,Sun,11/19/2023,1:00 PM,Detroit Lions,,Chicago Bears,31,26,338,4,334,1,Detroit Lions,Chicago Bears
+9,Sun,11/5/2023,1:00 PM,New Orleans Saints,,Chicago Bears,24,17,301,0,368,5,New Orleans Saints,Chicago Bears
+8,Sun,10/29/2023,8:20 PM,Los Angeles Chargers,,Chicago Bears,30,13,352,1,295,2,Los Angeles Chargers,Chicago Bears
+3,Sun,9/24/2023,4:25 PM,Kansas City Chiefs,,Chicago Bears,41,10,456,2,203,2,Kansas City Chiefs,Chicago Bears
+2,Sun,9/17/2023,1:00 PM,Tampa Bay Buccaneers,,Chicago Bears,27,17,437,0,236,2,Tampa Bay Buccaneers,Chicago Bears
+17,Sun,1/1/2023,1:00 PM,Detroit Lions,,Chicago Bears,41,10,504,0,230,2,Detroit Lions,Chicago Bears
+12,Sun,11/27/2022,1:00 PM,New York Jets,,Chicago Bears,31,10,466,0,292,1,New York Jets,Chicago Bears
+11,Sun,11/20/2022,1:00 PM,Atlanta Falcons,,Chicago Bears,27,24,280,2,288,1,Atlanta Falcons,Chicago Bears
+8,Sun,10/30/2022,1:00 PM,Dallas Cowboys,,Chicago Bears,49,29,442,1,371,1,Dallas Cowboys,Chicago Bears
+5,Sun,10/9/2022,1:00 PM,Minnesota Vikings,,Chicago Bears,29,22,429,1,271,1,Minnesota Vikings,Chicago Bears
+4,Sun,10/2/2022,1:00 PM,New York Giants,,Chicago Bears,20,12,333,2,304,3,New York Giants,Chicago Bears
+2,Sun,9/18/2022,8:20 PM,Green Bay Packers,,Chicago Bears,27,10,414,1,228,1,Green Bay Packers,Chicago Bears
+17,Sun,12/31/2023,1:00 PM,Jacksonville Jaguars,,Carolina Panthers,26,0,317,0,124,1,Jacksonville Jaguars,Carolina Panthers
+14,Sun,12/10/2023,1:00 PM,New Orleans Saints,,Carolina Panthers,28,6,207,1,303,2,New Orleans Saints,Carolina Panthers
+13,Sun,12/3/2023,4:05 PM,Tampa Bay Buccaneers,,Carolina Panthers,21,18,322,1,282,1,Tampa Bay Buccaneers,Carolina Panthers
+12,Sun,11/26/2023,1:00 PM,Tennessee Titans,,Carolina Panthers,17,10,264,0,258,1,Tennessee Titans,Carolina Panthers
+10,Thu,11/9/2023,8:15 PM,Chicago Bears,,Carolina Panthers,16,13,295,0,213,0,Chicago Bears,Carolina Panthers
+6,Sun,10/15/2023,1:00 PM,Miami Dolphins,,Carolina Panthers,42,21,424,1,296,0,Miami Dolphins,Carolina Panthers
+5,Sun,10/8/2023,1:00 PM,Detroit Lions,,Carolina Panthers,42,24,377,0,342,3,Detroit Lions,Carolina Panthers
+3,Sun,9/24/2023,4:05 PM,Seattle Seahawks,,Carolina Panthers,37,27,425,1,378,0,Seattle Seahawks,Carolina Panthers
+1,Sun,9/10/2023,1:00 PM,Atlanta Falcons,,Carolina Panthers,24,10,221,0,281,3,Atlanta Falcons,Carolina Panthers
+17,Sun,1/1/2023,1:00 PM,Tampa Bay Buccaneers,,Carolina Panthers,30,24,478,1,400,3,Tampa Bay Buccaneers,Carolina Panthers
+11,Sun,11/20/2022,1:00 PM,Baltimore Ravens,,Carolina Panthers,13,3,308,1,205,3,Baltimore Ravens,Carolina Panthers
+9,Sun,11/6/2022,1:00 PM,Cincinnati Bengals,,Carolina Panthers,42,21,464,0,228,3,Cincinnati Bengals,Carolina Panthers
+8,Sun,10/30/2022,1:00 PM,Atlanta Falcons,,Carolina Panthers,37,34,406,2,478,1,Atlanta Falcons,Carolina Panthers
+6,Sun,10/16/2022,4:05 PM,Los Angeles Rams,,Carolina Panthers,24,10,360,1,203,1,Los Angeles Rams,Carolina Panthers
+2,Sun,9/18/2022,1:00 PM,New York Giants,,Carolina Panthers,19,16,265,0,275,2,New York Giants,Carolina Panthers
+12,Sun,11/26/2023,4:25 PM,Philadelphia Eagles,,Buffalo Bills,37,34,378,2,505,1,Philadelphia Eagles,Buffalo Bills
+9,Sun,11/5/2023,8:20 PM,Cincinnati Bengals,,Buffalo Bills,24,18,397,0,317,2,Cincinnati Bengals,Buffalo Bills
+7,Sun,10/22/2023,1:00 PM,New England Patriots,,Buffalo Bills,29,25,364,1,339,2,New England Patriots,Buffalo Bills
+1,Mon,9/11/2023,8:15 PM,New York Jets,,Buffalo Bills,22,16,289,1,314,4,New York Jets,Buffalo Bills
+9,Sun,11/6/2022,1:00 PM,New York Jets,,Buffalo Bills,20,17,310,1,317,2,New York Jets,Buffalo Bills
+3,Sun,9/25/2022,1:00 PM,Miami Dolphins,,Buffalo Bills,21,19,212,0,497,1,Miami Dolphins,Buffalo Bills
+5,Sun,10/8/2023,1:00 PM,Pittsburgh Steelers,,Baltimore Ravens,17,10,289,1,335,3,Pittsburgh Steelers,Baltimore Ravens
+18,Sun,1/8/2023,1:00 PM,Cincinnati Bengals,,Baltimore Ravens,27,16,257,1,386,4,Cincinnati Bengals,Baltimore Ravens
+15,Sat,12/17/2022,4:30 PM,Cleveland Browns,,Baltimore Ravens,13,3,283,0,324,2,Cleveland Browns,Baltimore Ravens
+12,Sun,11/27/2022,1:00 PM,Jacksonville Jaguars,,Baltimore Ravens,28,27,332,1,415,2,Jacksonville Jaguars,Baltimore Ravens
+6,Sun,10/16/2022,1:00 PM,New York Giants,,Baltimore Ravens,24,20,238,1,406,2,New York Giants,Baltimore Ravens
+18,Sun,1/7/2024,1:00 PM,New Orleans Saints,,Atlanta Falcons,48,17,400,0,389,3,New Orleans Saints,Atlanta Falcons
+17,Sun,12/31/2023,1:00 PM,Chicago Bears,,Atlanta Falcons,37,17,432,0,307,4,Chicago Bears,Atlanta Falcons
+15,Sun,12/17/2023,1:00 PM,Carolina Panthers,,Atlanta Falcons,9,7,283,0,204,2,Carolina Panthers,Atlanta Falcons
+10,Sun,11/12/2023,4:05 PM,Arizona Cardinals,,Atlanta Falcons,25,23,352,1,254,0,Arizona Cardinals,Atlanta Falcons
+8,Sun,10/29/2023,1:00 PM,Tennessee Titans,,Atlanta Falcons,28,23,375,1,342,1,Tennessee Titans,Atlanta Falcons
+4,Sun,10/1/2023,9:30 AM,Jacksonville Jaguars,,Atlanta Falcons,23,7,300,0,287,3,Jacksonville Jaguars,Atlanta Falcons
+3,Sun,9/24/2023,1:00 PM,Detroit Lions,,Atlanta Falcons,20,6,358,1,183,1,Detroit Lions,Atlanta Falcons
+16,Sat,12/24/2022,1:00 PM,Baltimore Ravens,,Atlanta Falcons,17,9,299,0,327,1,Baltimore Ravens,Atlanta Falcons
+15,Sun,12/18/2022,1:00 PM,New Orleans Saints,,Atlanta Falcons,21,18,348,1,320,1,New Orleans Saints,Atlanta Falcons
+12,Sun,11/27/2022,1:00 PM,Washington Commanders,,Atlanta Falcons,19,13,314,1,332,1,Washington Commanders,Atlanta Falcons
+10,Thu,11/10/2022,8:15 PM,Carolina Panthers,,Atlanta Falcons,25,15,333,0,291,1,Carolina Panthers,Atlanta Falcons
+7,Sun,10/23/2022,1:00 PM,Cincinnati Bengals,,Atlanta Falcons,35,17,537,0,214,0,Cincinnati Bengals,Atlanta Falcons
+5,Sun,10/9/2022,1:00 PM,Tampa Bay Buccaneers,,Atlanta Falcons,21,15,420,0,261,0,Tampa Bay Buccaneers,Atlanta Falcons
+2,Sun,9/18/2022,4:05 PM,Los Angeles Rams,,Atlanta Falcons,31,27,337,3,261,3,Los Angeles Rams,Atlanta Falcons
+16,Sun,12/24/2023,4:25 PM,Chicago Bears,,Arizona Cardinals,27,16,420,1,306,0,Chicago Bears,Arizona Cardinals
+11,Sun,11/19/2023,1:00 PM,Houston Texans,,Arizona Cardinals,21,16,419,3,319,2,Houston Texans,Arizona Cardinals
+9,Sun,11/5/2023,1:00 PM,Cleveland Browns,,Arizona Cardinals,27,0,326,0,58,3,Cleveland Browns,Arizona Cardinals
+7,Sun,10/22/2023,4:05 PM,Seattle Seahawks,,Arizona Cardinals,20,10,318,3,249,0,Seattle Seahawks,Arizona Cardinals
+6,Sun,10/15/2023,4:25 PM,Los Angeles Rams,,Arizona Cardinals,26,9,382,1,345,2,Los Angeles Rams,Arizona Cardinals
+4,Sun,10/1/2023,4:25 PM,San Francisco 49ers,,Arizona Cardinals,35,16,395,0,362,0,San Francisco 49ers,Arizona Cardinals
+1,Sun,9/10/2023,1:00 PM,Washington Commanders,,Arizona Cardinals,20,16,248,3,210,2,Washington Commanders,Arizona Cardinals
+18,Sun,1/8/2023,4:25 PM,San Francisco 49ers,,Arizona Cardinals,38,13,311,0,255,4,San Francisco 49ers,Arizona Cardinals
+17,Sun,1/1/2023,1:00 PM,Atlanta Falcons,,Arizona Cardinals,20,19,298,1,339,0,Atlanta Falcons,Arizona Cardinals
+15,Sun,12/18/2022,4:05 PM,Denver Broncos,,Arizona Cardinals,24,15,324,2,240,3,Denver Broncos,Arizona Cardinals
+8,Sun,10/30/2022,1:00 PM,Minnesota Vikings,,Arizona Cardinals,34,26,381,1,375,3,Minnesota Vikings,Arizona Cardinals
+6,Sun,10/16/2022,4:05 PM,Seattle Seahawks,,Arizona Cardinals,19,9,296,1,315,2,Seattle Seahawks,Arizona Cardinals
