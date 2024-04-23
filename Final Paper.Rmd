@@ -17,20 +17,26 @@ fig_height: 3
 # Introduction
 
 
-It's January 20th, 2019. Drew Brees attempts a pass to Tommylee Lewis. There's 1:49 to go in the fourth quarter of the NFC Championship. Lewis is hit, hard, by Nickell Robey-Coleman. Robey-Coleman never turns his head to look at the ball. Three officials discuss. There is no foul on the play. The New Orleans Saints settle for a field goal. They eventually lose the game, sending the Los Angeles Rams to the Super Bowl. Drew Brees, one of the most decorated and admired quarterbacks to ever play the game goes on to retire the next season, unable to lead his team to another Super Bowl. Robey-Coleman's actions in the 2018 NFC Championship, to many, appear to be an unquestionable case of defensive pass interference. Rule 8.5.2(a) of the NFL Rulebook states that "contact by a player who is not playing the ball that restricts the opponent's opportunity to make the catch" is prohibited (Goodell 32).
+It's January 20th, 2019. Drew Brees attempts a pass to Tommylee Lewis. There's 1:49 to go in the fourth quarter of the NFC Championship. Lewis is hit, hard, by Nickell Robey-Coleman. Robey-Coleman never turns his head to look at the ball. Three officials discuss. There is no foul on the play. The New Orleans Saints settle for a field goal. They eventually lose the game, sending the Los Angeles Rams to the Super Bowl. Drew Brees, one of the most decorated and admired quarterbacks to ever play the game goes on to retire the next season, unable to lead his team to another Super Bowl. Robey-Coleman's actions in the 2018 NFC Championship, to many, appear to be an unquestionable case of defensive pass interference. Rule 8.5.2(a) of the National Football league (NFL) Rulebook states that "contact by a player who is not playing the ball that restricts the opponent's opportunity to make the catch" is prohibited (Goodell).
 But what was the true effect of this highly controversial no-call? 
 
 A 2019 article published by The Ringer calls it "the worst missed call in NFL playoff history." In fact, the title of the article is "Ball Does Lie: The Saints Just Lost on the Worst Missed Call in NFL Playoff History." (Heifetz) But did the New Orleans Saints truly lose due to the missed call? What inflammatory headlines and angry tweets don't mention is that the Saints kicked a field goal after the missed call, the Rams responded with one of their own, and the game went into overtime before their eventual victory. The missed call may have been egregious, but how can it definitively be said that the Saints would've gone to the Super Bowl had the defensive pass interference been called? 
 
-I intend to explore the true influence of fouls on whether a team loses or wins any given football game. A foul in the National Football League (NFL) is "any infraction of a playing rule for which a penalty is prescribed (Goodell 5)." "Penalty" is the term attributed to the punishment for a foul. In this paper, I will use the term "penalty" to refer to fouls, as I am analyzing the influence of fouls which were called and led to a team being penalized. 
+I intend to explore the true influence of fouls on whether a team loses or wins any given football game. A foul in the NFL is "any infraction of a playing rule for which a penalty is prescribed (Goodell)." "Penalty" is the term attributed to the punishment for a foul. In this paper, I will use the term "penalty" to refer to fouls, as I am analyzing the influence of fouls which were called and led to a team being penalized. 
 
-A simple Google search for "nfl officiating outrage" returns 79,000 results in 0.4 seconds detailing how a team or player is outraged over a call from a certain game. The outrage is understandable, given that officiating is largely subjective. While there are clearly defined rules for what is and is not allowed in a game, officials (or referees) are only human. In real time, it can be very difficult to correctly adjudicate every play or action taken by a player. This has led to a belief that referees "take sides" or that games are "rigged." After the infamous 2019 NFC championship no-call, New Orleans Saints defensive end Cameron Jordan stated  “As far as I’ve known, we haven’t had referees that go gung-ho for the Saints. We’ve got to put ourselves in the best position so we’re not able to be touched (Cacciola)." My goal is to analyze the available data and support the theory that individual officiating decisions do not determine the outcomes of NFL games. 
+A simple Google search for "nfl officiating outrage" returns 79,000 results in 0.4 seconds detailing how a team or player is outraged over a call from a certain game. The outrage is understandable, given that officiating is largely subjective. While there are clearly defined rules for what is and is not allowed in a game, officials (or referees) are only human. In real time, it can be very difficult to correctly adjudicate every play or action taken by a player. This has led to a belief that referees "take sides" or that games are "rigged." After the infamous 2019 NFC championship no-call, New Orleans Saints defensive end Cameron Jordan stated  “As far as I’ve known, we haven’t had referees that go gung-ho for the Saints. We’ve got to put ourselves in the best position so we’re not able to be touched (Cacciola)." My goal is to analyze the available data and support the theory that individual officiating decisions do not determine the outcomes of NFL games.
 
 # Literature Review
 
+Referee bias is a highly debated issue in many major sport leagues, not just the NFL. A 2010 study of referees in the National Basketball Association found that players whose race matches that of the referees in a given game tend to have less fouls called on them and score more. The literature on this particular issue regarding the NFL is limited, but it does indicate that referee bias in major sports exists and influences the game. However, the study does not indicate whether referee bias had an influence on the final results of the games (Price, Wolfers).
+
+Lambertz-Berndt et al. make the claim that a similar racial bias exists in the NFL. They examine the treatment of quarterback Cameron Newton, who publicly criticized the lack of penalties called on late hits he felt put his safety at risk. They go on to explore the stereotypes that exist about African American athletes, particularly at the quarterback position. Newton is both African American and a large man, even for a professional football player. This article concludes that both factors contributed to the perceived lack of protection for Newton (Lambertz-Berndt, et al.).
+
+A key aspect of the discourse surrounding penalties is the timing of the penalties (or lack of penalties). Some believe that penalties at the end of high stakes games can doom a team. Players like Patrick Mahomes suggest that in the final moments of a game, referees should back up and let the players play. He was quoted saying "You wait until a minute left to make a call like that? Let us play the game. (Zeglinski)" However, a study of NFL penalties found that the frequency of penalties actually follows a quadratic trend, where the majority of penalties are called between minutes 5-55 of a game. The same study finds that offensive holding and defensive pass interference are called the most frequently on "3rd/4th and long" and "3rd/4th and short" plays (Snyder, Lopez). Occam's razor suggest that these are higher stakes plays where players are more incentivized to make an big play. The findings of this study support the theory that it is not specific penalties that determine the outcomes of games. Instead, it is player decisions that lead to those penalties being called.
+
 # Data
 
-These data come from Pro Football Reference and nflpenalties.com(include citations).
+These data come from Pro Football Reference and nflpenalties.com.
 The dataset obtained from Pro Football Reference contains information about a team's performance in a given game.
 The dataset from nflpenalties.com contains information about the penalties received in a given game.
 After merging the two together, I then generated some variables I believed may be relevant to my analysis.
@@ -65,6 +71,19 @@ head(df)
 ```
 # Exploratory Data Analysis
 ![](sumstats.png)
+## Main variables of interest defined 
+$points:$ the number of points scored by a team in a specific game
+$oYards:$ the total amount of yards gained by the offense 
+$pYards:$ the total amount of yards lost due to penalties
+$pCount:$ the total number of penalties called. (does not include offsetting/declined penalties)
+$to:$ the number of turnovers by the offense 
+$toDiff:$ turnovers - opponent turnovers
+$pDiff:$ penalties - opponent penalties
+$ptDiff:$ points - opponent points
+$ydsDiff:$ offensive yards - opponent offensive yards
+$pYdDiff:$ penalty yards - opponent penalty yards
+$home:$ a binary indicator = 1 if the team was the home team and = 0 if they were the away team 
+$won:$ a binary indicator = 1 if the team won and = 0 if they lost 
 
 ```{r, echo = F}
 dfNum <- df[,7:18]
@@ -94,35 +113,27 @@ dfNum <- df[,7:18]
 # awayLosses <- homeWins
 
 ```
-
-
-
 ```{r, include = F}
 refStats <- read_csv('refStats.csv')
 ```
-
 ```{r, Total Penalties by Crew, echo = F, eval = T}
 ggplot(refStats, aes(x = crew, y = penalties)) +
   geom_bar(stat = "identity", fill = "blue4", color = "black") +
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
-  labs(x = "Referee Crew", y = "Total Penalties")
+  labs(x = "Referee Crew", y = "Total Penalties") +
+  ggtitle("Total Penalties by Crew")
 ```
-
-It should be noted that both Alan Eck and Jerome Boger only officiated games for one of the two seasons in my data.
+Comparing total penalties per crew is flawed because the referees Alan Eck and Jerome Boger only officiated games for one of the two seasons in the data. 
 To account for the disparity in games between different crews, I also have plotted average penalties per game by crew.
-
 ```{r, Penalties/Game by Crew, echo = F, eval = T}
 ggplot(refStats, aes(x = crew, y = penalties/games)) +
   geom_bar(stat = "identity", fill = "blue4", color = "black") +
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
-  labs(x = "Referee Crew", y = "Penalties per Game")
+  labs(x = "Referee Crew", y = "Penalties per Game") +
+  ggtitle("Average Penalties per Game, by Crew")
 ```
-
-Each bar represents the difference between penalties called on the away team and penalties called on the home team over the two seasons by crew.
-It should be noted that many of the referees officiated roughly 30 games over the course of the two seasons.
-
 ```{r, home penalties-away, echo = F, eval = T}
 x <- refStats$aPen - refStats$hPen
 
@@ -130,15 +141,11 @@ ggplot(refStats, aes(x = crew, y = x)) +
   geom_bar(stat = "identity", fill = "blue4", color = "black") +
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
-  labs(x = "Referee Crew", y = "Difference in Away - Home")
+  labs(x = "Referee Crew", y = "Difference in Away - Home") +
+  ggtitle("Difference in Penalties on the Home Team and Away Team")
 ```
-
-This next graph represents total penalties over the two seasons for all 32 teams.
-It is arranged in ascending order.
-The following graph charts how many wins each team had.
-It is arranged in the same order.
-As you can see, there is a lot of fluctuation, giving some insight into the effect of penalties on winning.
-
+Each bar represents the difference between penalties called on the away team and penalties called on the home team over the two seasons by crew.
+It should be noted that the majority of the referees officiated roughly 30 games over the course of the two seasons. However, it is still interesting that there seems to be a bias in favor of the home team when it comes to penalties.
 ```{r, penalties by team, echo = F}
 teamPen <- df |> 
   group_by(team) |> 
@@ -150,17 +157,23 @@ ggplot(teamPen, aes(x = reorder(team, penalties), y = penalties)) +
   geom_bar(stat = "identity", fill = "blue4", color = "black") +
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
-  labs(x = "Team", y = "Penalties from 22-23 Seasons") 
+  labs(x = "Team", y = "Penalties") +
+  ggtitle("Total Penalties by Team (22-23)")
 ```
-
+This graph represents total penalties over the two seasons for all 32 teams.
+It is arranged in ascending order.
+The following graph charts how many wins each team had.
+It is arranged in the same order.
+As you can see, there is a lot of fluctuation, giving some insight into the effect of penalties on winning.
 ```{r, number of wins per team, echo = F, eval = T}
 ggplot(teamPen, aes(x = reorder(team, penalties), y = wins)) +
   geom_bar(stat = "identity", fill = "blue4", color = "black") +
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
-  labs(x = "Team", y = "Wins in 22-23 Seasons") 
+  labs(x = "Team", y = "Wins in 22-23 Seasons") + 
+  ggtitle("Total Wins Ordered by Penalty Count")
 ```
-
+Finally, I created a simple scatter plot of penalties and wins to see what the general trend was before adding in control variables. The trend does appear to be generally positive, but quite weak. 
 ```{r, wins correlated with penalties, echo = F, eval = T}
 ggplot(teamPen, aes(x = penalties, y = wins)) +
   geom_point() +
@@ -168,16 +181,6 @@ ggplot(teamPen, aes(x = penalties, y = wins)) +
   theme_minimal() +
   labs(x = "Total Penalties", y = "Wins (out of a possible 34)") 
 ```
-
-```{r, echo = F}
-# pairs.panels(dfNum[1:6], cor = TRUE)
-```
-
-```{r, echo = F}
-# pairs.panels(dfNum[6:12], cor = TRUE)
-```
-
-
 ```{r, echo = F}
 df$won <- as.factor(df$won)
 df$home <- as.factor(df$home)
@@ -188,14 +191,15 @@ df <- df |>
                     .default = 0)
   )
 set.seed(1)
+df$hWin <- as.factor(df$hWin)
 testIndex <- createDataPartition(df$won, times = 1, p = 0.7,
                                  list = F)
 train <- df[testIndex, ]
 test <- df[-testIndex, ]
 ```
 
-# Models
-To run these models, I split my data into a training set and a testing set with 70% of the original data and 30% of the original data, respectively. Until I determine my final model, all models and analysis will be based on the training set only. 
+# Methods
+Before creating any regression models, I split my data into a training set and a testing set. I did this in order to prevent potential overfitting, and to see how robust the model is to new data. Each model will be a logistic regression with the dependent variable being if a team won or lost the game in question. To assess performance, I will create a confusion matrix that measures the accuracy of each model. 
 ```{r}
 penMod <- glm(won ~ pCount + pYards + penDiff + pYdDiff, data = train, 
               family = "binomial")
@@ -211,7 +215,7 @@ y_hat0 <- ifelse(y > .50, 1, 0) |>
 lgCm0 <- confusionMatrix(data = y_hat0, reference = train$won, positive = "1")
 lgCm0
 ```
-This first regression model estimates $won = \beta_0 + \beta_1(penalty count) + \beta_2(penalty yards) + \beta_3(penalty differential) + \beta_4(penalty yard differential)$. This model only predicts wins and losses with 52.04% accuracy, and none of the coefficients are significant at any level. So, not off to a great start. (insert model summaries)
+This first regression model estimates $won = \beta_0 + \beta_1(penalty count) + \beta_2(penalty yards) + \beta_3(penalty differential) + \beta_4(penalty yard differential)$. This model predicts wins and losses with 52.04% accuracy, and none of the coefficients are significant at any level. So, not off to a great start. (insert model summaries)
 ```{r, echo = F, eval = T}
 mod1 <- glm(won ~ oYards + points + to + tDiff + penDiff + ydsDiff +
             pYdDiff + home, data = train, family = "binomial")
@@ -221,8 +225,10 @@ summary(mod1)
 vif1 <- vif(mod1)
 vif1
 ```
+For the second model, I included $oYards,$ $points,$ $to,$ $tDiff,$ $ydsDiff,$ and $home$ as controls. The variables I included were chosen because they are pretty strong indicators of a team's performance in a game, both offensively and defensively.
+
 All VIFs for this model are <5, which is great. We can assume that multicollinearity is not going to be an issue here. Furthermore, it seems safe to assume that the coefficients are relatively trustworthy. 
-(insert model summaries)
+
 ```{r, echo = F, eval = T}
 y = predict(mod1, train, type = "response")
 
@@ -240,7 +246,6 @@ mod2 <- glm(hWin ~ points + to + tDiff + penDiff + ydsDiff +
             pYdDiff + home + crew, data = train, family = "binomial")
 summary(mod2)
 ```
-#add separate models for penalty differential and penalty yard differential?
 ```{r, echo = F, eval = T}
 vif2 <- vif(mod2)
 vif2
@@ -249,14 +254,24 @@ vif2
 y = predict(mod2, train, type = "response")
 
 y_hat <- ifelse(y > .50, 1, 0) |>
-  factor(levels = levels(train$won))
+  factor(levels = levels(train$hWin))
 
-lgCm <- confusionMatrix(data = y_hat, reference = train$won, positive = "1")
+lgCm <- confusionMatrix(data = y_hat, reference = train$hWin, positive = "1")
 lgCm
+```
+```{r}
+nopydiff <- glm(hWin ~ points + to + tDiff + penDiff + ydsDiff +
+             home + crew, data = train, family = "binomial")
+summary(nopydiff)
+```
+```{r}
+nopcount <- glm(hWin ~ points + to + tDiff + pYdDiff + ydsDiff +
+             home + crew, data = train, family = "binomial")
+summary(nopcount)
 ```
 
 
-To assess potential reference bias, I created variable named "hWin" which equals 1 if the winning team was also the home team. This model assesses how a teams odds of winning when they are the home team change based on referee crew. It will include all the same variables as the previous model, with 18 dummy variables (one for each crew.)
+To assess potential referee bias, I created variable named "hWin" which equals 1 if the winning team was also the home team. This model assesses how a teams odds of winning when they are the home team change based on referee crew. It will include all the same variables as the previous model, with 18 dummy variables (one for each crew.)
 
 
 # Conclusion 
@@ -273,6 +288,23 @@ Heifetz, Danny. “Ball Does Lie: The Saints Just Lost on the Worst Missed Call 
   www.theringer.com/nfl/2019/1/20/18190982/saints-rams-nfc-championship-game
   -missed-pass-interference-nickell-robey-coleman-tommylee-lewis. 
   
+Lambertz-Berndt, Megan, et al. “(No) Flag on the Play: Framing Cam Newton’s
+  Penalty Concerns as an Issue of Size, Sportsmanship, and Fairness.” The
+  Howard Journal of Communications, vol. 32, no. 1, Jan. 2021, pp. 24–42.
+  EBSCOhost, https://doi-org.proxy.li.suu.edu:2443/10.1080/10646175.2020.18389
+  71.
+  
+Price, Joseph, and Justin Wolfers. “Racial Discrimination among Nba Referees.”
+  The Quarterly Journal of Economics, vol. 125, no. 4, Nov. 2010, pp. 1859–87.
+  EBSCOhost, research.ebsco.com/linkprocessor/plink?id=d3c19fcc-bfc9-390b-80d
+  f-ec313cfaa11c.
+  
+Snyder, Kevin, and Michael Lopez. “Consistency, Accuracy, and Fairness: A
+  Study of Discretionary Penalties in the NFL.” Journal of Quantitative
+  Analysis in Sports, vol. 11, no. 4, Dec. 2015, pp. 219–30. EBSCOhost,
+  research.ebsco.com/linkprocessor/plink?id=d3d65c88-3962-3685-9fb8-ccc3b50d50
+  00.
+  
 Sports Reference LLC. "2022 NFL Weekly League Schedule." 
   Pro-Football-Reference.com - Pro Football Statistics and History. 
   28 Mar. 2024, https://www.pro-football-reference.com/. 
@@ -280,6 +312,12 @@ Sports Reference LLC. "2022 NFL Weekly League Schedule."
 Sports Reference LLC. "2023 NFL Weekly League Schedule." 
   Pro-Football-Reference.com - Pro Football Statistics and History. 
   28 Mar. 2024, https://www.pro-football-reference.com/. 
+  
+Zeglinski, Robert. “An Overdramatic Patrick Mahomes Said Offsides Call Somehow
+  Hurt Travis Kelce’s Hall of Fame Resume.” USA Today, Gannett Satellite
+  Information Network, 11 Dec. 2023,   
+  ftw.usatoday.com/lists/patrick-mahomes-offsides-call-travis-kelce-hall-of-fa
+  me-video-fan-reaction. 
  
 
 
